@@ -2,7 +2,7 @@
 
 ##  Overview
 
-**PlantPulse** is a fictional industrial maintenance analytics project designed to demonstrate how maintenance data can be transformed into actionable business insights using **SQL, data modelling and Microsoft Power BI**.
+**This project** is a fictional industrial maintenance analytics project designed to demonstrate how maintenance data can be transformed into actionable business insights using **SQL, data modelling and Microsoft Power BI**.
 
 The project simulates the maintenance operations of a manufacturing plant, covering equipment, functional locations, maintenance notifications, maintenance orders, technicians, spare parts, costs and downtime.
 
@@ -14,7 +14,7 @@ The objective is to answer a simple business question:
 
 ##  Project Objectives
 
-PlantPulse aims to analyse the performance of a fictional manufacturing plant and identify:
+This project aims to analyse the performance of a fictional manufacturing plant and identify:
 
 * Which equipment generates the highest maintenance costs
 * Which assets experience the most failures
@@ -102,7 +102,7 @@ Functional Locations
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Database
 
@@ -141,7 +141,7 @@ GitHub is used to document the project, store SQL scripts, datasets and Power BI
 ##  Project Structure
 
 ```text
-plantpulse-maintenance-analytics/
+factory-maintenance-analytics/
 │
 ├── README.md
 │
@@ -178,9 +178,7 @@ plantpulse-maintenance-analytics/
 
 ---
 
-# 📈 Key Performance Indicators
-
-PlantPulse focuses on several important maintenance KPIs.
+# Key Performance Indicators
 
 ### MTBF — Mean Time Between Failures
 
@@ -371,7 +369,7 @@ Recommendations will be based on the data rather than predefined assumptions.
 
 #  Disclaimer
 
-PlantPulse is a **fictional portfolio project**.
+This is a **fictional portfolio project**.
 
 The data is simulated and does not represent a real manufacturing company or actual company maintenance records.
 
