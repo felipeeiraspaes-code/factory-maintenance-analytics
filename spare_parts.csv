@@ -1,0 +1,16 @@
+spare_part_id,part_name,category,unit_cost,stock_quantity
+SP-001,Bearing,Mechanical,85,65
+SP-002,Motor Coupling,Mechanical,210,72
+SP-003,Seal Kit,Mechanical,65,22
+SP-004,Filter,Consumable,45,78
+SP-005,Drive Belt,Mechanical,120,29
+SP-006,Pressure Sensor,Instrumentation,175,65
+SP-007,Temperature Sensor,Instrumentation,160,48
+SP-008,Contactor,Electrical,95,63
+SP-009,Fuse,Electrical,18,52
+SP-010,Lubricant,Consumable,32,53
+SP-011,Hydraulic Hose,Hydraulics,140,51
+SP-012,Valve,Hydraulics,190,63
+SP-013,Relay,Electrical,55,60
+SP-014,Fan,Electrical,130,15
+SP-015,Gearbox,Mechanical,1250,66

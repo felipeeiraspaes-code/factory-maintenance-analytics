@@ -1,0 +1,6 @@
+functional_location_id,location_name,area
+FL-100,Production Hall A,Production
+FL-200,Production Hall B,Production
+FL-300,Packaging Area,Packaging
+FL-400,Utilities,Utilities
+FL-500,Warehouse,Logistics

@@ -1,0 +1,101 @@
+equipment_id,equipment_name,equipment_type,functional_location_id,installation_year,criticality,status
+EQ-0001,MTR-001,Motor,FL-100,2022,High,Operational
+EQ-0002,CLG-002,Cooling Unit,FL-100,2015,Critical,Operational
+EQ-0003,CMP-003,Compressor,FL-100,2024,Medium,Operational
+EQ-0004,HYD-004,Hydraulic Unit,FL-100,2020,Medium,Operational
+EQ-0005,CMP-005,Compressor,FL-100,2018,Low,Under Review
+EQ-0006,PKG-006,Packaging Machine,FL-100,2019,High,Under Review
+EQ-0007,CMP-007,Compressor,FL-100,2017,Medium,Under Review
+EQ-0008,MTR-008,Motor,FL-100,2023,Medium,Under Review
+EQ-0009,PMP-009,Pump,FL-100,2022,High,Operational
+EQ-0010,CLG-010,Cooling Unit,FL-100,2019,Medium,Under Review
+EQ-0011,HYD-011,Hydraulic Unit,FL-100,2016,Medium,Operational
+EQ-0012,MTR-012,Motor,FL-100,2020,Medium,Operational
+EQ-0013,CLG-013,Cooling Unit,FL-100,2022,Low,Operational
+EQ-0014,CVR-014,Conveyor,FL-100,2024,Medium,Operational
+EQ-0015,HYD-015,Hydraulic Unit,FL-100,2016,Critical,Operational
+EQ-0016,CMP-016,Compressor,FL-100,2018,Medium,Operational
+EQ-0017,CLG-017,Cooling Unit,FL-100,2019,Medium,Operational
+EQ-0018,PKG-018,Packaging Machine,FL-100,2015,Medium,Operational
+EQ-0019,CMP-019,Compressor,FL-100,2023,High,Under Review
+EQ-0020,CVR-020,Conveyor,FL-100,2017,Critical,Operational
+EQ-0021,HYD-021,Hydraulic Unit,FL-200,2016,Critical,Under Review
+EQ-0022,HYD-022,Hydraulic Unit,FL-200,2022,Medium,Operational
+EQ-0023,PMP-023,Pump,FL-200,2022,Medium,Operational
+EQ-0024,CMP-024,Compressor,FL-200,2015,Critical,Operational
+EQ-0025,CMP-025,Compressor,FL-200,2021,Medium,Under Review
+EQ-0026,CMP-026,Compressor,FL-200,2015,Medium,Under Review
+EQ-0027,CMP-027,Compressor,FL-200,2020,Medium,Under Review
+EQ-0028,CVR-028,Conveyor,FL-200,2021,High,Operational
+EQ-0029,CLG-029,Cooling Unit,FL-200,2017,High,Under Review
+EQ-0030,HYD-030,Hydraulic Unit,FL-200,2015,Critical,Operational
+EQ-0031,HYD-031,Hydraulic Unit,FL-200,2017,High,Operational
+EQ-0032,PKG-032,Packaging Machine,FL-200,2016,Medium,Operational
+EQ-0033,CLG-033,Cooling Unit,FL-200,2021,High,Operational
+EQ-0034,HYD-034,Hydraulic Unit,FL-200,2018,Critical,Operational
+EQ-0035,MTR-035,Motor,FL-200,2015,Medium,Operational
+EQ-0036,CMP-036,Compressor,FL-200,2022,Medium,Operational
+EQ-0037,CLG-037,Cooling Unit,FL-200,2016,Medium,Operational
+EQ-0038,CMP-038,Compressor,FL-200,2016,High,Operational
+EQ-0039,PKG-039,Packaging Machine,FL-200,2021,High,Under Review
+EQ-0040,MTR-040,Motor,FL-200,2018,Low,Operational
+EQ-0041,CVR-041,Conveyor,FL-300,2024,Medium,Operational
+EQ-0042,PMP-042,Pump,FL-300,2022,Medium,Under Review
+EQ-0043,PMP-043,Pump,FL-300,2022,High,Operational
+EQ-0044,PMP-044,Pump,FL-300,2015,Low,Operational
+EQ-0045,MTR-045,Motor,FL-300,2019,High,Operational
+EQ-0046,CVR-046,Conveyor,FL-300,2023,High,Operational
+EQ-0047,CMP-047,Compressor,FL-300,2023,Medium,Operational
+EQ-0048,HYD-048,Hydraulic Unit,FL-300,2021,Medium,Operational
+EQ-0049,MTR-049,Motor,FL-300,2020,Medium,Operational
+EQ-0050,MTR-050,Motor,FL-300,2022,Critical,Operational
+EQ-0051,PMP-051,Pump,FL-300,2019,High,Operational
+EQ-0052,PMP-052,Pump,FL-300,2021,Medium,Operational
+EQ-0053,HYD-053,Hydraulic Unit,FL-300,2016,Low,Under Review
+EQ-0054,PKG-054,Packaging Machine,FL-300,2019,Medium,Operational
+EQ-0055,CVR-055,Conveyor,FL-300,2015,Low,Operational
+EQ-0056,CMP-056,Compressor,FL-300,2019,Critical,Under Review
+EQ-0057,PMP-057,Pump,FL-300,2019,Medium,Operational
+EQ-0058,CLG-058,Cooling Unit,FL-300,2016,Medium,Operational
+EQ-0059,HYD-059,Hydraulic Unit,FL-300,2017,High,Operational
+EQ-0060,CMP-060,Compressor,FL-300,2023,Critical,Operational
+EQ-0061,CVR-061,Conveyor,FL-400,2023,Low,Operational
+EQ-0062,MTR-062,Motor,FL-400,2018,Critical,Operational
+EQ-0063,PKG-063,Packaging Machine,FL-400,2021,High,Operational
+EQ-0064,PKG-064,Packaging Machine,FL-400,2022,Medium,Operational
+EQ-0065,CVR-065,Conveyor,FL-400,2016,Low,Under Review
+EQ-0066,PMP-066,Pump,FL-400,2017,Medium,Operational
+EQ-0067,CMP-067,Compressor,FL-400,2018,Medium,Operational
+EQ-0068,HYD-068,Hydraulic Unit,FL-400,2024,Low,Operational
+EQ-0069,PKG-069,Packaging Machine,FL-400,2017,Medium,Under Review
+EQ-0070,PMP-070,Pump,FL-400,2024,High,Under Review
+EQ-0071,CMP-071,Compressor,FL-400,2015,High,Under Review
+EQ-0072,CLG-072,Cooling Unit,FL-400,2016,Medium,Under Review
+EQ-0073,HYD-073,Hydraulic Unit,FL-400,2023,Low,Operational
+EQ-0074,CMP-074,Compressor,FL-400,2019,Medium,Operational
+EQ-0075,CVR-075,Conveyor,FL-400,2021,High,Under Review
+EQ-0076,MTR-076,Motor,FL-400,2022,High,Operational
+EQ-0077,MTR-077,Motor,FL-400,2024,High,Operational
+EQ-0078,MTR-078,Motor,FL-400,2015,High,Under Review
+EQ-0079,HYD-079,Hydraulic Unit,FL-400,2016,Medium,Operational
+EQ-0080,CLG-080,Cooling Unit,FL-400,2015,High,Operational
+EQ-0081,CLG-081,Cooling Unit,FL-500,2022,Low,Operational
+EQ-0082,CMP-082,Compressor,FL-500,2019,Critical,Operational
+EQ-0083,PMP-083,Pump,FL-500,2017,Critical,Operational
+EQ-0084,PKG-084,Packaging Machine,FL-500,2024,Medium,Operational
+EQ-0085,CLG-085,Cooling Unit,FL-500,2021,Medium,Operational
+EQ-0086,PMP-086,Pump,FL-500,2023,Medium,Under Review
+EQ-0087,MTR-087,Motor,FL-500,2022,Critical,Operational
+EQ-0088,MTR-088,Motor,FL-500,2020,High,Under Review
+EQ-0089,CLG-089,Cooling Unit,FL-500,2018,Medium,Operational
+EQ-0090,PKG-090,Packaging Machine,FL-500,2018,High,Under Review
+EQ-0091,CLG-091,Cooling Unit,FL-500,2024,Critical,Operational
+EQ-0092,CMP-092,Compressor,FL-500,2016,Critical,Operational
+EQ-0093,HYD-093,Hydraulic Unit,FL-500,2016,High,Operational
+EQ-0094,CLG-094,Cooling Unit,FL-500,2016,Low,Operational
+EQ-0095,HYD-095,Hydraulic Unit,FL-500,2023,Medium,Operational
+EQ-0096,HYD-096,Hydraulic Unit,FL-500,2023,Critical,Operational
+EQ-0097,CVR-097,Conveyor,FL-500,2023,Medium,Operational
+EQ-0098,PMP-098,Pump,FL-500,2018,Medium,Operational
+EQ-0099,CLG-099,Cooling Unit,FL-500,2023,Medium,Operational
+EQ-0100,CVR-100,Conveyor,FL-500,2016,High,Operational
