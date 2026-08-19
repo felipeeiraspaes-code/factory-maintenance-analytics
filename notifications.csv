@@ -1,0 +1,1501 @@
+notification_id,equipment_id,created_date,notification_type,priority,status
+N-00001,EQ-0054,2024-10-21,Preventive Request,Medium,Closed
+N-00002,EQ-0033,2025-01-30,Preventive Request,Medium,Closed
+N-00003,EQ-0064,2024-03-07,Inspection,Medium,Closed
+N-00004,EQ-0041,2025-06-25,Condition Monitoring,Low,Closed
+N-00005,EQ-0093,2025-12-29,Inspection,Low,Converted to Order
+N-00006,EQ-0082,2025-11-26,Breakdown,Medium,Closed
+N-00007,EQ-0001,2025-10-16,Preventive Request,Low,Closed
+N-00008,EQ-0097,2025-02-22,Breakdown,Medium,Closed
+N-00009,EQ-0046,2024-05-10,Condition Monitoring,Low,Closed
+N-00010,EQ-0093,2024-04-19,Condition Monitoring,Low,Converted to Order
+N-00011,EQ-0010,2025-10-09,Condition Monitoring,High,Closed
+N-00012,EQ-0064,2026-03-06,Breakdown,Low,Closed
+N-00013,EQ-0098,2024-05-02,Breakdown,Medium,Closed
+N-00014,EQ-0023,2024-03-27,Preventive Request,Medium,Closed
+N-00015,EQ-0013,2026-04-20,Condition Monitoring,Medium,Closed
+N-00016,EQ-0057,2024-10-31,Breakdown,Medium,Closed
+N-00017,EQ-0069,2024-05-11,Breakdown,Medium,Open
+N-00018,EQ-0084,2025-11-19,Breakdown,Medium,Closed
+N-00019,EQ-0085,2026-02-17,Preventive Request,Medium,Closed
+N-00020,EQ-0031,2025-06-19,Preventive Request,Medium,Closed
+N-00021,EQ-0026,2024-01-23,Condition Monitoring,Medium,Closed
+N-00022,EQ-0066,2026-04-03,Inspection,Medium,Closed
+N-00023,EQ-0075,2025-08-03,Breakdown,Emergency,Closed
+N-00024,EQ-0096,2024-02-14,Breakdown,Medium,Closed
+N-00025,EQ-0090,2025-07-10,Breakdown,Low,Closed
+N-00026,EQ-0043,2026-01-06,Preventive Request,Medium,Converted to Order
+N-00027,EQ-0011,2024-11-29,Breakdown,High,Open
+N-00028,EQ-0033,2026-03-23,Condition Monitoring,Medium,Closed
+N-00029,EQ-0080,2025-06-17,Breakdown,Medium,Closed
+N-00030,EQ-0074,2024-04-03,Breakdown,High,Converted to Order
+N-00031,EQ-0012,2025-01-13,Breakdown,Medium,Closed
+N-00032,EQ-0094,2025-03-16,Breakdown,Medium,Closed
+N-00033,EQ-0009,2025-06-03,Condition Monitoring,High,Closed
+N-00034,EQ-0091,2026-06-17,Breakdown,Medium,Closed
+N-00035,EQ-0031,2025-11-04,Breakdown,Low,Closed
+N-00036,EQ-0010,2026-03-13,Inspection,Medium,Converted to Order
+N-00037,EQ-0085,2026-03-07,Breakdown,Medium,Closed
+N-00038,EQ-0080,2024-11-22,Breakdown,High,Closed
+N-00039,EQ-0052,2024-03-21,Condition Monitoring,Medium,Closed
+N-00040,EQ-0098,2026-06-20,Preventive Request,Low,Closed
+N-00041,EQ-0020,2024-11-04,Breakdown,High,Closed
+N-00042,EQ-0098,2024-06-18,Inspection,Medium,Converted to Order
+N-00043,EQ-0032,2025-11-28,Condition Monitoring,Low,Closed
+N-00044,EQ-0091,2025-06-20,Breakdown,Medium,Closed
+N-00045,EQ-0038,2026-01-31,Preventive Request,Medium,Closed
+N-00046,EQ-0041,2024-04-20,Condition Monitoring,Medium,Closed
+N-00047,EQ-0025,2024-10-30,Breakdown,Low,Closed
+N-00048,EQ-0096,2024-07-08,Breakdown,Emergency,Converted to Order
+N-00049,EQ-0006,2025-12-25,Inspection,Medium,Closed
+N-00050,EQ-0040,2025-02-21,Breakdown,High,Closed
+N-00051,EQ-0099,2026-02-10,Breakdown,Medium,Closed
+N-00052,EQ-0042,2024-06-21,Breakdown,Medium,Closed
+N-00053,EQ-0088,2024-09-07,Breakdown,High,Closed
+N-00054,EQ-0003,2025-05-06,Preventive Request,Medium,Closed
+N-00055,EQ-0032,2026-02-08,Inspection,Medium,Closed
+N-00056,EQ-0029,2024-07-18,Inspection,Medium,Open
+N-00057,EQ-0029,2024-06-24,Breakdown,Medium,Closed
+N-00058,EQ-0051,2025-05-18,Inspection,Medium,Closed
+N-00059,EQ-0069,2024-01-29,Breakdown,Medium,Closed
+N-00060,EQ-0017,2025-03-24,Inspection,Low,Converted to Order
+N-00061,EQ-0083,2024-11-08,Breakdown,Low,Closed
+N-00062,EQ-0065,2025-11-16,Breakdown,High,Closed
+N-00063,EQ-0066,2026-05-13,Inspection,Medium,Closed
+N-00064,EQ-0042,2024-08-23,Condition Monitoring,Medium,Closed
+N-00065,EQ-0022,2025-06-29,Condition Monitoring,Medium,Closed
+N-00066,EQ-0068,2024-01-25,Breakdown,High,Closed
+N-00067,EQ-0093,2025-09-29,Breakdown,High,Closed
+N-00068,EQ-0009,2025-06-10,Condition Monitoring,Low,Closed
+N-00069,EQ-0022,2024-06-25,Breakdown,Low,Closed
+N-00070,EQ-0033,2026-06-03,Breakdown,High,Closed
+N-00071,EQ-0095,2026-02-11,Preventive Request,Medium,Open
+N-00072,EQ-0047,2025-02-16,Inspection,Medium,Closed
+N-00073,EQ-0097,2024-03-10,Condition Monitoring,Medium,Closed
+N-00074,EQ-0013,2025-01-15,Breakdown,Medium,Closed
+N-00075,EQ-0038,2025-12-21,Breakdown,Medium,Closed
+N-00076,EQ-0036,2025-01-26,Breakdown,Emergency,Closed
+N-00077,EQ-0048,2026-05-24,Breakdown,Medium,Closed
+N-00078,EQ-0092,2026-03-05,Breakdown,Medium,Converted to Order
+N-00079,EQ-0057,2024-09-20,Breakdown,High,Closed
+N-00080,EQ-0044,2025-10-04,Preventive Request,Medium,Closed
+N-00081,EQ-0032,2024-05-23,Breakdown,Low,Closed
+N-00082,EQ-0054,2025-08-25,Breakdown,Medium,Closed
+N-00083,EQ-0018,2025-09-05,Breakdown,High,Closed
+N-00084,EQ-0049,2025-04-12,Breakdown,High,Closed
+N-00085,EQ-0020,2026-02-19,Inspection,Medium,Closed
+N-00086,EQ-0035,2025-10-04,Breakdown,Medium,Closed
+N-00087,EQ-0029,2024-06-29,Breakdown,Medium,Closed
+N-00088,EQ-0043,2025-03-14,Preventive Request,Low,Closed
+N-00089,EQ-0091,2025-11-16,Breakdown,High,Converted to Order
+N-00090,EQ-0084,2026-04-08,Preventive Request,High,Open
+N-00091,EQ-0072,2024-07-24,Inspection,Low,Closed
+N-00092,EQ-0062,2024-09-27,Breakdown,High,Converted to Order
+N-00093,EQ-0077,2025-01-02,Inspection,Medium,Closed
+N-00094,EQ-0097,2024-09-08,Preventive Request,Medium,Closed
+N-00095,EQ-0058,2025-06-04,Condition Monitoring,Medium,Closed
+N-00096,EQ-0057,2025-01-08,Breakdown,Low,Closed
+N-00097,EQ-0021,2024-06-07,Breakdown,High,Closed
+N-00098,EQ-0041,2026-02-11,Breakdown,Emergency,Closed
+N-00099,EQ-0061,2024-04-27,Inspection,Medium,Closed
+N-00100,EQ-0031,2025-04-03,Preventive Request,Medium,Closed
+N-00101,EQ-0092,2024-05-22,Breakdown,Medium,Closed
+N-00102,EQ-0099,2024-07-21,Breakdown,Low,Closed
+N-00103,EQ-0023,2026-04-17,Condition Monitoring,Medium,Converted to Order
+N-00104,EQ-0087,2024-07-22,Condition Monitoring,Medium,Closed
+N-00105,EQ-0054,2024-04-03,Breakdown,Medium,Closed
+N-00106,EQ-0030,2024-07-12,Breakdown,High,Converted to Order
+N-00107,EQ-0009,2024-03-08,Breakdown,Medium,Closed
+N-00108,EQ-0017,2025-01-18,Breakdown,High,Closed
+N-00109,EQ-0057,2024-08-14,Inspection,Medium,Closed
+N-00110,EQ-0041,2025-01-31,Breakdown,Medium,Closed
+N-00111,EQ-0065,2025-07-03,Inspection,Medium,Closed
+N-00112,EQ-0015,2024-03-27,Breakdown,Medium,Closed
+N-00113,EQ-0076,2024-05-19,Inspection,Medium,Closed
+N-00114,EQ-0035,2025-08-05,Preventive Request,Medium,Closed
+N-00115,EQ-0055,2024-03-14,Preventive Request,Medium,Closed
+N-00116,EQ-0023,2024-04-05,Condition Monitoring,High,Closed
+N-00117,EQ-0085,2024-04-03,Inspection,Medium,Closed
+N-00118,EQ-0015,2025-10-23,Condition Monitoring,Medium,Closed
+N-00119,EQ-0033,2025-02-04,Inspection,Medium,Closed
+N-00120,EQ-0058,2025-02-18,Breakdown,High,Closed
+N-00121,EQ-0091,2024-07-31,Condition Monitoring,High,Closed
+N-00122,EQ-0073,2025-04-09,Breakdown,Low,Closed
+N-00123,EQ-0086,2025-12-17,Inspection,Low,Closed
+N-00124,EQ-0076,2024-05-07,Breakdown,Medium,Closed
+N-00125,EQ-0019,2025-09-19,Breakdown,High,Converted to Order
+N-00126,EQ-0025,2024-11-02,Breakdown,Medium,Closed
+N-00127,EQ-0077,2025-12-19,Inspection,Low,Converted to Order
+N-00128,EQ-0052,2024-10-22,Breakdown,Low,Closed
+N-00129,EQ-0045,2024-04-27,Inspection,Medium,Closed
+N-00130,EQ-0023,2024-06-19,Breakdown,Emergency,Closed
+N-00131,EQ-0027,2024-07-14,Preventive Request,High,Closed
+N-00132,EQ-0035,2025-04-25,Inspection,Medium,Closed
+N-00133,EQ-0004,2024-11-17,Breakdown,Medium,Closed
+N-00134,EQ-0078,2024-03-03,Condition Monitoring,Low,Closed
+N-00135,EQ-0010,2024-09-09,Breakdown,Medium,Closed
+N-00136,EQ-0005,2026-03-13,Breakdown,Low,Closed
+N-00137,EQ-0026,2025-09-02,Condition Monitoring,Low,Closed
+N-00138,EQ-0027,2024-02-23,Inspection,High,Closed
+N-00139,EQ-0013,2025-06-19,Preventive Request,Medium,Converted to Order
+N-00140,EQ-0045,2025-11-27,Preventive Request,Medium,Closed
+N-00141,EQ-0086,2024-08-19,Preventive Request,High,Closed
+N-00142,EQ-0047,2024-09-27,Breakdown,Medium,Closed
+N-00143,EQ-0097,2024-09-30,Preventive Request,Medium,Converted to Order
+N-00144,EQ-0084,2026-03-03,Condition Monitoring,Medium,Closed
+N-00145,EQ-0090,2024-11-05,Inspection,High,Closed
+N-00146,EQ-0061,2024-09-29,Breakdown,Medium,Converted to Order
+N-00147,EQ-0062,2026-06-26,Breakdown,Medium,Closed
+N-00148,EQ-0034,2024-07-09,Breakdown,Medium,Closed
+N-00149,EQ-0052,2025-10-25,Breakdown,Medium,Converted to Order
+N-00150,EQ-0049,2024-01-26,Preventive Request,Medium,Closed
+N-00151,EQ-0037,2024-11-15,Breakdown,Medium,Closed
+N-00152,EQ-0044,2024-05-17,Breakdown,Emergency,Closed
+N-00153,EQ-0027,2024-02-10,Inspection,Medium,Closed
+N-00154,EQ-0040,2025-05-21,Inspection,Medium,Closed
+N-00155,EQ-0054,2026-04-17,Breakdown,High,Closed
+N-00156,EQ-0006,2025-09-22,Inspection,Low,Closed
+N-00157,EQ-0039,2026-06-28,Breakdown,High,Closed
+N-00158,EQ-0063,2026-05-13,Preventive Request,High,Closed
+N-00159,EQ-0030,2024-11-04,Breakdown,Low,Closed
+N-00160,EQ-0082,2026-02-19,Preventive Request,Low,Converted to Order
+N-00161,EQ-0068,2025-03-30,Breakdown,Medium,Closed
+N-00162,EQ-0015,2024-01-20,Inspection,Medium,Closed
+N-00163,EQ-0062,2025-08-05,Preventive Request,Low,Closed
+N-00164,EQ-0014,2025-04-26,Breakdown,Low,Closed
+N-00165,EQ-0027,2024-08-20,Breakdown,Medium,Closed
+N-00166,EQ-0066,2025-05-23,Preventive Request,Medium,Closed
+N-00167,EQ-0061,2025-02-10,Breakdown,High,Closed
+N-00168,EQ-0046,2025-10-05,Breakdown,High,Closed
+N-00169,EQ-0038,2026-02-24,Condition Monitoring,Low,Closed
+N-00170,EQ-0067,2024-08-08,Breakdown,Medium,Closed
+N-00171,EQ-0073,2026-04-21,Condition Monitoring,Low,Closed
+N-00172,EQ-0023,2024-10-14,Breakdown,Medium,Closed
+N-00173,EQ-0031,2025-06-14,Inspection,Low,Closed
+N-00174,EQ-0026,2025-03-19,Preventive Request,Medium,Closed
+N-00175,EQ-0050,2026-03-08,Breakdown,Medium,Converted to Order
+N-00176,EQ-0018,2025-05-24,Preventive Request,Medium,Closed
+N-00177,EQ-0081,2024-08-17,Breakdown,High,Closed
+N-00178,EQ-0080,2024-06-14,Inspection,Medium,Converted to Order
+N-00179,EQ-0078,2025-03-29,Breakdown,High,Closed
+N-00180,EQ-0095,2025-04-06,Preventive Request,Low,Closed
+N-00181,EQ-0026,2025-04-26,Breakdown,High,Closed
+N-00182,EQ-0046,2025-11-05,Condition Monitoring,Medium,Closed
+N-00183,EQ-0028,2024-08-11,Breakdown,Medium,Closed
+N-00184,EQ-0093,2025-11-17,Inspection,High,Closed
+N-00185,EQ-0093,2025-11-05,Breakdown,High,Closed
+N-00186,EQ-0039,2025-01-29,Breakdown,High,Closed
+N-00187,EQ-0096,2025-01-28,Inspection,Medium,Closed
+N-00188,EQ-0046,2024-01-16,Breakdown,High,Closed
+N-00189,EQ-0095,2024-12-28,Breakdown,High,Closed
+N-00190,EQ-0031,2024-05-16,Preventive Request,Medium,Closed
+N-00191,EQ-0025,2024-08-20,Breakdown,Medium,Closed
+N-00192,EQ-0057,2025-10-16,Condition Monitoring,Medium,Closed
+N-00193,EQ-0042,2024-04-24,Inspection,Low,Closed
+N-00194,EQ-0025,2025-09-13,Condition Monitoring,Low,Converted to Order
+N-00195,EQ-0047,2024-07-01,Breakdown,Low,Closed
+N-00196,EQ-0007,2026-05-28,Breakdown,Medium,Closed
+N-00197,EQ-0062,2026-01-26,Preventive Request,Medium,Converted to Order
+N-00198,EQ-0028,2026-03-10,Condition Monitoring,High,Closed
+N-00199,EQ-0086,2024-01-05,Breakdown,Medium,Converted to Order
+N-00200,EQ-0068,2025-11-28,Breakdown,Medium,Closed
+N-00201,EQ-0027,2024-07-29,Breakdown,High,Closed
+N-00202,EQ-0001,2025-07-11,Condition Monitoring,Medium,Converted to Order
+N-00203,EQ-0040,2026-03-08,Inspection,Low,Closed
+N-00204,EQ-0006,2026-05-24,Inspection,Medium,Closed
+N-00205,EQ-0048,2025-07-30,Breakdown,Medium,Closed
+N-00206,EQ-0024,2026-04-01,Breakdown,Emergency,Closed
+N-00207,EQ-0064,2024-01-31,Condition Monitoring,Low,Closed
+N-00208,EQ-0078,2026-06-14,Condition Monitoring,Medium,Closed
+N-00209,EQ-0068,2024-11-07,Inspection,Medium,Open
+N-00210,EQ-0058,2024-09-19,Breakdown,Emergency,Closed
+N-00211,EQ-0001,2024-07-31,Breakdown,High,Closed
+N-00212,EQ-0004,2025-11-24,Inspection,Low,Closed
+N-00213,EQ-0052,2024-05-29,Breakdown,Low,Closed
+N-00214,EQ-0088,2024-10-02,Preventive Request,Medium,Closed
+N-00215,EQ-0008,2024-05-24,Breakdown,Medium,Closed
+N-00216,EQ-0049,2025-01-14,Breakdown,High,Closed
+N-00217,EQ-0063,2025-10-19,Preventive Request,Medium,Closed
+N-00218,EQ-0088,2026-06-30,Preventive Request,High,Open
+N-00219,EQ-0049,2024-02-28,Condition Monitoring,High,Closed
+N-00220,EQ-0089,2025-04-06,Breakdown,Low,Closed
+N-00221,EQ-0070,2025-04-03,Condition Monitoring,Medium,Closed
+N-00222,EQ-0094,2025-03-14,Inspection,Medium,Closed
+N-00223,EQ-0038,2025-02-06,Preventive Request,Low,Closed
+N-00224,EQ-0069,2026-05-30,Preventive Request,Medium,Closed
+N-00225,EQ-0086,2024-03-03,Preventive Request,Low,Closed
+N-00226,EQ-0055,2025-04-11,Breakdown,High,Closed
+N-00227,EQ-0009,2026-03-06,Condition Monitoring,Low,Closed
+N-00228,EQ-0060,2024-10-14,Breakdown,Emergency,Closed
+N-00229,EQ-0004,2024-02-02,Preventive Request,Low,Closed
+N-00230,EQ-0031,2025-03-16,Inspection,Medium,Closed
+N-00231,EQ-0057,2024-09-15,Preventive Request,Low,Closed
+N-00232,EQ-0013,2025-06-05,Condition Monitoring,Medium,Closed
+N-00233,EQ-0047,2024-09-10,Preventive Request,Low,Closed
+N-00234,EQ-0085,2024-04-10,Breakdown,Medium,Closed
+N-00235,EQ-0023,2025-10-11,Breakdown,Medium,Closed
+N-00236,EQ-0029,2024-09-23,Condition Monitoring,Low,Closed
+N-00237,EQ-0084,2024-07-23,Inspection,High,Closed
+N-00238,EQ-0077,2025-07-24,Breakdown,Medium,Closed
+N-00239,EQ-0027,2024-02-10,Preventive Request,Low,Closed
+N-00240,EQ-0051,2024-05-10,Breakdown,High,Closed
+N-00241,EQ-0063,2024-08-11,Breakdown,Medium,Closed
+N-00242,EQ-0031,2024-02-26,Inspection,Low,Closed
+N-00243,EQ-0028,2024-08-13,Condition Monitoring,Medium,Closed
+N-00244,EQ-0092,2026-04-08,Inspection,Medium,Closed
+N-00245,EQ-0004,2024-11-11,Condition Monitoring,Medium,Closed
+N-00246,EQ-0077,2024-03-27,Breakdown,Low,Closed
+N-00247,EQ-0044,2025-11-10,Breakdown,Medium,Closed
+N-00248,EQ-0042,2026-01-01,Preventive Request,Medium,Closed
+N-00249,EQ-0091,2025-02-12,Preventive Request,Medium,Closed
+N-00250,EQ-0021,2024-08-16,Condition Monitoring,Medium,Converted to Order
+N-00251,EQ-0002,2026-04-26,Breakdown,Low,Closed
+N-00252,EQ-0069,2025-08-26,Condition Monitoring,Medium,Closed
+N-00253,EQ-0093,2024-06-26,Breakdown,Medium,Closed
+N-00254,EQ-0014,2024-01-15,Breakdown,Medium,Closed
+N-00255,EQ-0007,2025-10-18,Breakdown,Medium,Closed
+N-00256,EQ-0081,2026-05-03,Preventive Request,Medium,Closed
+N-00257,EQ-0036,2025-09-14,Preventive Request,Medium,Closed
+N-00258,EQ-0094,2024-11-30,Breakdown,Medium,Closed
+N-00259,EQ-0017,2025-07-19,Breakdown,Medium,Closed
+N-00260,EQ-0029,2026-06-07,Breakdown,Low,Closed
+N-00261,EQ-0041,2026-03-06,Breakdown,High,Closed
+N-00262,EQ-0029,2024-12-18,Breakdown,Medium,Closed
+N-00263,EQ-0054,2025-11-12,Breakdown,Low,Closed
+N-00264,EQ-0036,2024-03-07,Breakdown,High,Closed
+N-00265,EQ-0095,2025-08-31,Breakdown,Medium,Converted to Order
+N-00266,EQ-0100,2025-04-20,Breakdown,High,Closed
+N-00267,EQ-0008,2025-01-31,Breakdown,Low,Closed
+N-00268,EQ-0023,2025-05-09,Breakdown,Medium,Closed
+N-00269,EQ-0031,2025-05-06,Breakdown,Medium,Closed
+N-00270,EQ-0020,2025-01-14,Inspection,Medium,Closed
+N-00271,EQ-0055,2026-01-10,Breakdown,Medium,Closed
+N-00272,EQ-0035,2024-08-29,Breakdown,Medium,Closed
+N-00273,EQ-0071,2025-11-17,Inspection,High,Closed
+N-00274,EQ-0044,2025-08-15,Inspection,Medium,Closed
+N-00275,EQ-0068,2024-06-11,Breakdown,Medium,Closed
+N-00276,EQ-0031,2024-10-12,Breakdown,Medium,Closed
+N-00277,EQ-0049,2025-10-01,Condition Monitoring,Low,Closed
+N-00278,EQ-0062,2024-05-19,Condition Monitoring,Medium,Closed
+N-00279,EQ-0076,2025-10-08,Preventive Request,Medium,Converted to Order
+N-00280,EQ-0050,2025-05-05,Breakdown,Medium,Closed
+N-00281,EQ-0064,2024-01-30,Breakdown,Medium,Closed
+N-00282,EQ-0089,2025-09-29,Preventive Request,Low,Converted to Order
+N-00283,EQ-0012,2024-03-29,Breakdown,High,Closed
+N-00284,EQ-0077,2025-09-29,Breakdown,Medium,Converted to Order
+N-00285,EQ-0022,2025-05-31,Condition Monitoring,Medium,Closed
+N-00286,EQ-0087,2025-02-24,Preventive Request,Medium,Closed
+N-00287,EQ-0035,2024-09-12,Breakdown,Medium,Closed
+N-00288,EQ-0056,2025-12-24,Preventive Request,Medium,Closed
+N-00289,EQ-0062,2025-12-13,Inspection,Medium,Closed
+N-00290,EQ-0041,2024-07-07,Preventive Request,Medium,Closed
+N-00291,EQ-0035,2025-12-05,Condition Monitoring,Medium,Closed
+N-00292,EQ-0005,2025-07-18,Breakdown,High,Closed
+N-00293,EQ-0080,2025-04-11,Condition Monitoring,High,Closed
+N-00294,EQ-0066,2025-06-18,Inspection,Medium,Closed
+N-00295,EQ-0079,2025-06-20,Breakdown,Medium,Closed
+N-00296,EQ-0085,2025-04-11,Breakdown,High,Closed
+N-00297,EQ-0051,2024-01-18,Breakdown,Medium,Closed
+N-00298,EQ-0052,2024-09-19,Breakdown,Medium,Closed
+N-00299,EQ-0039,2024-08-03,Breakdown,Medium,Converted to Order
+N-00300,EQ-0085,2025-06-03,Condition Monitoring,Medium,Closed
+N-00301,EQ-0097,2025-08-30,Breakdown,High,Closed
+N-00302,EQ-0018,2026-03-27,Inspection,Medium,Closed
+N-00303,EQ-0064,2026-03-03,Breakdown,Low,Closed
+N-00304,EQ-0100,2025-03-12,Inspection,Medium,Open
+N-00305,EQ-0039,2025-11-20,Breakdown,Medium,Closed
+N-00306,EQ-0042,2025-10-30,Inspection,Medium,Closed
+N-00307,EQ-0003,2025-08-30,Condition Monitoring,Medium,Converted to Order
+N-00308,EQ-0013,2025-10-23,Breakdown,High,Closed
+N-00309,EQ-0067,2026-06-14,Breakdown,Medium,Closed
+N-00310,EQ-0069,2025-09-10,Condition Monitoring,Low,Closed
+N-00311,EQ-0004,2024-07-03,Breakdown,Low,Closed
+N-00312,EQ-0087,2025-01-27,Inspection,Medium,Closed
+N-00313,EQ-0064,2025-07-22,Condition Monitoring,Medium,Closed
+N-00314,EQ-0018,2024-06-09,Breakdown,High,Open
+N-00315,EQ-0067,2025-01-15,Preventive Request,High,Closed
+N-00316,EQ-0094,2024-11-06,Condition Monitoring,Medium,Closed
+N-00317,EQ-0079,2026-03-08,Condition Monitoring,Medium,Closed
+N-00318,EQ-0005,2024-10-27,Breakdown,Medium,Closed
+N-00319,EQ-0026,2024-05-02,Breakdown,High,Closed
+N-00320,EQ-0051,2024-11-11,Breakdown,Medium,Closed
+N-00321,EQ-0076,2025-09-13,Breakdown,High,Closed
+N-00322,EQ-0049,2026-01-12,Condition Monitoring,Medium,Closed
+N-00323,EQ-0074,2024-07-14,Inspection,Medium,Open
+N-00324,EQ-0066,2026-06-28,Inspection,Low,Closed
+N-00325,EQ-0094,2026-05-21,Breakdown,High,Closed
+N-00326,EQ-0041,2025-10-27,Breakdown,Medium,Closed
+N-00327,EQ-0067,2024-12-08,Breakdown,Medium,Closed
+N-00328,EQ-0002,2026-03-12,Breakdown,High,Closed
+N-00329,EQ-0009,2024-04-28,Breakdown,Medium,Open
+N-00330,EQ-0021,2025-02-07,Preventive Request,Medium,Closed
+N-00331,EQ-0093,2025-06-28,Preventive Request,Low,Closed
+N-00332,EQ-0068,2025-09-23,Inspection,Medium,Closed
+N-00333,EQ-0052,2024-04-20,Preventive Request,High,Closed
+N-00334,EQ-0066,2024-05-26,Breakdown,Low,Closed
+N-00335,EQ-0016,2025-12-12,Preventive Request,Medium,Closed
+N-00336,EQ-0066,2025-08-22,Breakdown,Medium,Closed
+N-00337,EQ-0070,2025-07-24,Breakdown,Low,Closed
+N-00338,EQ-0059,2024-01-29,Preventive Request,High,Closed
+N-00339,EQ-0032,2025-12-30,Breakdown,Medium,Closed
+N-00340,EQ-0092,2024-06-02,Breakdown,Medium,Closed
+N-00341,EQ-0073,2025-11-19,Breakdown,Medium,Closed
+N-00342,EQ-0074,2025-06-23,Breakdown,Emergency,Closed
+N-00343,EQ-0016,2024-06-08,Breakdown,High,Closed
+N-00344,EQ-0051,2024-02-20,Breakdown,High,Closed
+N-00345,EQ-0046,2026-05-09,Preventive Request,Medium,Closed
+N-00346,EQ-0099,2025-01-14,Condition Monitoring,Medium,Closed
+N-00347,EQ-0068,2024-01-21,Condition Monitoring,Medium,Closed
+N-00348,EQ-0061,2026-01-11,Breakdown,Medium,Closed
+N-00349,EQ-0036,2026-03-08,Preventive Request,High,Closed
+N-00350,EQ-0090,2025-12-03,Inspection,High,Closed
+N-00351,EQ-0087,2025-01-13,Inspection,Medium,Closed
+N-00352,EQ-0090,2024-02-14,Breakdown,Emergency,Closed
+N-00353,EQ-0058,2025-11-10,Preventive Request,High,Closed
+N-00354,EQ-0038,2024-06-04,Breakdown,Emergency,Closed
+N-00355,EQ-0050,2024-04-03,Condition Monitoring,High,Closed
+N-00356,EQ-0072,2025-06-25,Breakdown,High,Closed
+N-00357,EQ-0055,2024-04-03,Inspection,High,Closed
+N-00358,EQ-0100,2025-08-16,Preventive Request,Low,Closed
+N-00359,EQ-0039,2026-06-17,Condition Monitoring,Medium,Closed
+N-00360,EQ-0079,2025-07-08,Breakdown,Medium,Closed
+N-00361,EQ-0074,2025-05-20,Condition Monitoring,Medium,Open
+N-00362,EQ-0098,2024-11-12,Condition Monitoring,Medium,Converted to Order
+N-00363,EQ-0035,2024-05-12,Breakdown,Medium,Closed
+N-00364,EQ-0088,2024-11-05,Breakdown,Low,Closed
+N-00365,EQ-0063,2025-06-27,Breakdown,Medium,Closed
+N-00366,EQ-0032,2025-06-27,Inspection,High,Closed
+N-00367,EQ-0028,2024-08-05,Preventive Request,Medium,Closed
+N-00368,EQ-0030,2024-10-24,Inspection,Medium,Closed
+N-00369,EQ-0051,2026-01-16,Breakdown,Medium,Closed
+N-00370,EQ-0096,2024-09-27,Condition Monitoring,Medium,Closed
+N-00371,EQ-0095,2025-11-24,Breakdown,Medium,Closed
+N-00372,EQ-0094,2025-07-15,Breakdown,Medium,Closed
+N-00373,EQ-0094,2025-04-17,Breakdown,Medium,Converted to Order
+N-00374,EQ-0079,2024-07-08,Inspection,Medium,Closed
+N-00375,EQ-0015,2025-07-25,Preventive Request,Medium,Closed
+N-00376,EQ-0018,2025-08-02,Breakdown,Medium,Closed
+N-00377,EQ-0021,2026-06-13,Breakdown,High,Converted to Order
+N-00378,EQ-0096,2026-03-16,Breakdown,Medium,Closed
+N-00379,EQ-0056,2025-06-11,Inspection,Medium,Closed
+N-00380,EQ-0030,2024-05-16,Inspection,High,Closed
+N-00381,EQ-0082,2024-01-18,Preventive Request,Medium,Converted to Order
+N-00382,EQ-0087,2025-06-28,Condition Monitoring,Medium,Closed
+N-00383,EQ-0062,2025-01-10,Preventive Request,Medium,Open
+N-00384,EQ-0090,2025-02-15,Condition Monitoring,Medium,Converted to Order
+N-00385,EQ-0023,2024-05-17,Preventive Request,Medium,Converted to Order
+N-00386,EQ-0006,2025-08-08,Breakdown,High,Closed
+N-00387,EQ-0077,2025-06-13,Breakdown,Medium,Closed
+N-00388,EQ-0014,2024-02-11,Inspection,Medium,Closed
+N-00389,EQ-0017,2026-06-19,Preventive Request,Medium,Closed
+N-00390,EQ-0009,2024-04-06,Preventive Request,Medium,Closed
+N-00391,EQ-0096,2025-11-22,Inspection,Low,Closed
+N-00392,EQ-0041,2024-06-29,Inspection,High,Converted to Order
+N-00393,EQ-0042,2026-04-06,Breakdown,High,Closed
+N-00394,EQ-0065,2026-02-27,Condition Monitoring,Medium,Converted to Order
+N-00395,EQ-0076,2024-06-27,Inspection,High,Closed
+N-00396,EQ-0065,2024-11-16,Condition Monitoring,Low,Closed
+N-00397,EQ-0039,2026-06-26,Inspection,Low,Closed
+N-00398,EQ-0078,2024-04-03,Preventive Request,Low,Closed
+N-00399,EQ-0034,2025-11-19,Condition Monitoring,Medium,Closed
+N-00400,EQ-0018,2025-02-17,Breakdown,Medium,Closed
+N-00401,EQ-0094,2024-10-30,Breakdown,Medium,Closed
+N-00402,EQ-0026,2025-03-04,Breakdown,Medium,Closed
+N-00403,EQ-0048,2024-05-21,Breakdown,Medium,Closed
+N-00404,EQ-0016,2025-11-07,Breakdown,Low,Closed
+N-00405,EQ-0079,2025-12-28,Breakdown,Low,Closed
+N-00406,EQ-0025,2024-09-24,Breakdown,Emergency,Closed
+N-00407,EQ-0024,2025-06-01,Preventive Request,Low,Closed
+N-00408,EQ-0066,2026-04-08,Breakdown,Medium,Converted to Order
+N-00409,EQ-0097,2025-09-25,Breakdown,Medium,Closed
+N-00410,EQ-0067,2026-04-06,Preventive Request,Low,Closed
+N-00411,EQ-0097,2025-03-01,Condition Monitoring,Medium,Closed
+N-00412,EQ-0050,2025-07-16,Preventive Request,Medium,Closed
+N-00413,EQ-0075,2025-10-03,Condition Monitoring,Low,Converted to Order
+N-00414,EQ-0046,2024-08-24,Breakdown,Low,Closed
+N-00415,EQ-0010,2024-10-16,Inspection,Medium,Closed
+N-00416,EQ-0089,2025-11-06,Breakdown,High,Closed
+N-00417,EQ-0003,2024-06-15,Inspection,Medium,Closed
+N-00418,EQ-0069,2025-12-30,Inspection,Medium,Closed
+N-00419,EQ-0006,2025-05-05,Preventive Request,Medium,Closed
+N-00420,EQ-0062,2024-03-18,Breakdown,High,Closed
+N-00421,EQ-0035,2026-06-19,Breakdown,High,Open
+N-00422,EQ-0076,2024-05-22,Breakdown,Medium,Closed
+N-00423,EQ-0001,2024-10-02,Condition Monitoring,Medium,Closed
+N-00424,EQ-0043,2025-05-27,Breakdown,Medium,Closed
+N-00425,EQ-0009,2025-10-25,Inspection,Medium,Closed
+N-00426,EQ-0099,2024-02-17,Preventive Request,Medium,Closed
+N-00427,EQ-0039,2025-07-29,Breakdown,High,Closed
+N-00428,EQ-0086,2025-03-18,Breakdown,Medium,Closed
+N-00429,EQ-0065,2024-01-21,Breakdown,Medium,Closed
+N-00430,EQ-0059,2026-04-18,Condition Monitoring,Medium,Closed
+N-00431,EQ-0016,2025-12-31,Breakdown,Emergency,Closed
+N-00432,EQ-0100,2026-02-03,Condition Monitoring,Low,Closed
+N-00433,EQ-0028,2025-01-31,Breakdown,Medium,Closed
+N-00434,EQ-0007,2025-04-29,Condition Monitoring,Medium,Closed
+N-00435,EQ-0007,2024-08-15,Breakdown,Low,Closed
+N-00436,EQ-0089,2024-10-31,Breakdown,Medium,Closed
+N-00437,EQ-0043,2026-05-09,Condition Monitoring,Medium,Closed
+N-00438,EQ-0046,2026-03-14,Breakdown,Low,Closed
+N-00439,EQ-0018,2024-06-20,Breakdown,High,Closed
+N-00440,EQ-0003,2025-05-22,Condition Monitoring,Medium,Open
+N-00441,EQ-0043,2024-01-17,Preventive Request,Low,Closed
+N-00442,EQ-0042,2025-12-14,Breakdown,Emergency,Converted to Order
+N-00443,EQ-0084,2025-12-31,Breakdown,High,Closed
+N-00444,EQ-0052,2024-03-24,Breakdown,Medium,Closed
+N-00445,EQ-0091,2025-12-21,Breakdown,High,Closed
+N-00446,EQ-0027,2025-08-19,Preventive Request,Medium,Closed
+N-00447,EQ-0058,2025-05-01,Condition Monitoring,High,Closed
+N-00448,EQ-0015,2024-01-13,Preventive Request,Medium,Closed
+N-00449,EQ-0052,2024-07-31,Breakdown,Low,Closed
+N-00450,EQ-0016,2026-04-21,Condition Monitoring,Low,Converted to Order
+N-00451,EQ-0081,2024-05-25,Breakdown,Low,Converted to Order
+N-00452,EQ-0054,2026-03-30,Preventive Request,Medium,Closed
+N-00453,EQ-0018,2024-11-09,Breakdown,Emergency,Closed
+N-00454,EQ-0009,2024-12-25,Breakdown,High,Closed
+N-00455,EQ-0012,2024-06-14,Breakdown,Medium,Closed
+N-00456,EQ-0070,2025-08-27,Breakdown,Low,Closed
+N-00457,EQ-0075,2024-11-05,Inspection,High,Open
+N-00458,EQ-0014,2025-06-30,Preventive Request,Medium,Closed
+N-00459,EQ-0089,2026-02-09,Breakdown,Medium,Closed
+N-00460,EQ-0083,2025-05-10,Breakdown,Low,Closed
+N-00461,EQ-0050,2025-10-20,Condition Monitoring,Medium,Closed
+N-00462,EQ-0016,2024-05-21,Condition Monitoring,Medium,Closed
+N-00463,EQ-0008,2024-04-27,Breakdown,Medium,Converted to Order
+N-00464,EQ-0002,2026-04-15,Preventive Request,Medium,Closed
+N-00465,EQ-0044,2024-09-04,Preventive Request,Medium,Converted to Order
+N-00466,EQ-0065,2024-01-22,Breakdown,Medium,Closed
+N-00467,EQ-0028,2024-12-13,Breakdown,Medium,Converted to Order
+N-00468,EQ-0051,2025-12-05,Breakdown,Medium,Closed
+N-00469,EQ-0011,2025-10-25,Breakdown,Medium,Closed
+N-00470,EQ-0065,2026-02-24,Inspection,Medium,Closed
+N-00471,EQ-0100,2024-03-27,Breakdown,Medium,Converted to Order
+N-00472,EQ-0003,2024-11-03,Breakdown,Medium,Closed
+N-00473,EQ-0057,2025-04-23,Condition Monitoring,Medium,Closed
+N-00474,EQ-0073,2026-05-04,Condition Monitoring,Medium,Closed
+N-00475,EQ-0084,2026-04-24,Breakdown,Medium,Closed
+N-00476,EQ-0058,2025-08-30,Inspection,Low,Closed
+N-00477,EQ-0023,2024-06-03,Breakdown,Low,Closed
+N-00478,EQ-0071,2024-08-08,Condition Monitoring,Medium,Closed
+N-00479,EQ-0030,2025-06-28,Breakdown,Medium,Closed
+N-00480,EQ-0056,2024-05-08,Preventive Request,Medium,Closed
+N-00481,EQ-0071,2024-08-14,Inspection,High,Closed
+N-00482,EQ-0060,2026-01-01,Breakdown,Emergency,Converted to Order
+N-00483,EQ-0060,2024-06-21,Preventive Request,Medium,Closed
+N-00484,EQ-0053,2024-01-25,Breakdown,Medium,Closed
+N-00485,EQ-0081,2024-11-03,Preventive Request,Medium,Closed
+N-00486,EQ-0054,2024-05-31,Inspection,Medium,Closed
+N-00487,EQ-0052,2025-03-18,Inspection,Medium,Closed
+N-00488,EQ-0002,2024-03-04,Breakdown,Medium,Closed
+N-00489,EQ-0046,2026-06-25,Breakdown,Low,Closed
+N-00490,EQ-0058,2025-05-03,Condition Monitoring,Medium,Closed
+N-00491,EQ-0096,2025-08-07,Inspection,High,Closed
+N-00492,EQ-0040,2025-08-09,Inspection,Low,Closed
+N-00493,EQ-0088,2024-10-16,Breakdown,Low,Closed
+N-00494,EQ-0010,2025-12-23,Condition Monitoring,Medium,Closed
+N-00495,EQ-0100,2025-06-18,Breakdown,Medium,Closed
+N-00496,EQ-0065,2026-02-01,Breakdown,High,Closed
+N-00497,EQ-0031,2024-05-28,Preventive Request,Medium,Closed
+N-00498,EQ-0001,2025-05-06,Condition Monitoring,Medium,Closed
+N-00499,EQ-0007,2026-04-10,Condition Monitoring,Medium,Closed
+N-00500,EQ-0032,2026-02-16,Inspection,Medium,Closed
+N-00501,EQ-0057,2024-04-04,Inspection,Low,Closed
+N-00502,EQ-0015,2026-03-12,Breakdown,Medium,Closed
+N-00503,EQ-0089,2025-03-22,Condition Monitoring,High,Closed
+N-00504,EQ-0024,2026-02-10,Condition Monitoring,Medium,Closed
+N-00505,EQ-0092,2024-11-13,Breakdown,Medium,Closed
+N-00506,EQ-0093,2025-03-11,Condition Monitoring,High,Closed
+N-00507,EQ-0059,2024-06-06,Inspection,Medium,Closed
+N-00508,EQ-0043,2025-06-18,Inspection,Medium,Closed
+N-00509,EQ-0088,2024-08-06,Breakdown,Medium,Closed
+N-00510,EQ-0027,2024-05-08,Breakdown,Medium,Closed
+N-00511,EQ-0085,2026-03-07,Preventive Request,Medium,Converted to Order
+N-00512,EQ-0007,2025-04-25,Inspection,Medium,Converted to Order
+N-00513,EQ-0061,2026-06-30,Condition Monitoring,Medium,Closed
+N-00514,EQ-0082,2025-11-28,Condition Monitoring,Medium,Closed
+N-00515,EQ-0013,2024-09-14,Inspection,Medium,Closed
+N-00516,EQ-0088,2024-01-09,Breakdown,High,Closed
+N-00517,EQ-0048,2024-11-06,Breakdown,Medium,Closed
+N-00518,EQ-0096,2024-11-17,Breakdown,High,Closed
+N-00519,EQ-0037,2026-04-08,Inspection,Medium,Closed
+N-00520,EQ-0011,2024-01-15,Condition Monitoring,Medium,Closed
+N-00521,EQ-0097,2025-09-07,Condition Monitoring,Medium,Closed
+N-00522,EQ-0055,2024-11-16,Breakdown,High,Closed
+N-00523,EQ-0097,2025-07-14,Preventive Request,High,Closed
+N-00524,EQ-0066,2024-12-15,Inspection,Medium,Closed
+N-00525,EQ-0064,2024-07-20,Condition Monitoring,Medium,Closed
+N-00526,EQ-0099,2026-03-17,Breakdown,Medium,Closed
+N-00527,EQ-0012,2025-08-15,Preventive Request,Medium,Open
+N-00528,EQ-0008,2025-05-04,Breakdown,Emergency,Closed
+N-00529,EQ-0091,2026-04-21,Condition Monitoring,Medium,Closed
+N-00530,EQ-0099,2025-09-20,Breakdown,Medium,Closed
+N-00531,EQ-0075,2025-02-18,Breakdown,Medium,Converted to Order
+N-00532,EQ-0011,2025-05-04,Breakdown,Medium,Closed
+N-00533,EQ-0073,2026-04-14,Breakdown,Medium,Closed
+N-00534,EQ-0077,2024-07-03,Condition Monitoring,High,Closed
+N-00535,EQ-0064,2025-08-03,Preventive Request,Medium,Closed
+N-00536,EQ-0067,2025-05-28,Preventive Request,High,Closed
+N-00537,EQ-0031,2024-10-16,Inspection,Medium,Closed
+N-00538,EQ-0034,2025-08-30,Breakdown,Medium,Closed
+N-00539,EQ-0040,2025-12-28,Breakdown,High,Closed
+N-00540,EQ-0045,2025-05-11,Breakdown,Medium,Closed
+N-00541,EQ-0053,2024-01-26,Breakdown,Medium,Closed
+N-00542,EQ-0075,2024-08-20,Breakdown,Medium,Open
+N-00543,EQ-0071,2024-03-11,Breakdown,Medium,Closed
+N-00544,EQ-0081,2025-01-11,Inspection,Medium,Closed
+N-00545,EQ-0075,2025-09-17,Condition Monitoring,Low,Converted to Order
+N-00546,EQ-0037,2026-06-06,Breakdown,Medium,Closed
+N-00547,EQ-0010,2025-01-10,Condition Monitoring,Medium,Closed
+N-00548,EQ-0092,2024-09-18,Breakdown,Medium,Closed
+N-00549,EQ-0075,2025-11-14,Breakdown,High,Closed
+N-00550,EQ-0011,2024-10-27,Inspection,Medium,Closed
+N-00551,EQ-0091,2024-12-15,Preventive Request,High,Closed
+N-00552,EQ-0038,2025-07-18,Inspection,Medium,Closed
+N-00553,EQ-0068,2024-12-25,Condition Monitoring,Low,Closed
+N-00554,EQ-0080,2024-06-04,Inspection,Medium,Closed
+N-00555,EQ-0074,2026-04-30,Breakdown,High,Closed
+N-00556,EQ-0015,2024-09-18,Inspection,Medium,Closed
+N-00557,EQ-0002,2024-08-14,Condition Monitoring,Low,Closed
+N-00558,EQ-0085,2025-08-30,Inspection,Low,Converted to Order
+N-00559,EQ-0028,2024-12-31,Inspection,Medium,Closed
+N-00560,EQ-0001,2025-06-18,Inspection,Medium,Closed
+N-00561,EQ-0087,2025-06-23,Condition Monitoring,Medium,Closed
+N-00562,EQ-0003,2025-01-09,Condition Monitoring,Low,Closed
+N-00563,EQ-0059,2024-02-01,Breakdown,Medium,Closed
+N-00564,EQ-0027,2026-06-13,Breakdown,Medium,Closed
+N-00565,EQ-0047,2024-08-01,Breakdown,High,Closed
+N-00566,EQ-0011,2025-02-05,Inspection,High,Closed
+N-00567,EQ-0026,2026-05-18,Condition Monitoring,Medium,Closed
+N-00568,EQ-0040,2024-11-01,Breakdown,Medium,Closed
+N-00569,EQ-0031,2025-05-20,Breakdown,Medium,Closed
+N-00570,EQ-0089,2024-07-24,Preventive Request,Low,Closed
+N-00571,EQ-0069,2025-05-17,Breakdown,Medium,Closed
+N-00572,EQ-0097,2025-11-19,Inspection,Medium,Closed
+N-00573,EQ-0063,2026-04-23,Inspection,Medium,Closed
+N-00574,EQ-0100,2024-12-04,Breakdown,Medium,Closed
+N-00575,EQ-0071,2025-01-25,Condition Monitoring,Medium,Closed
+N-00576,EQ-0027,2025-01-11,Inspection,Medium,Closed
+N-00577,EQ-0076,2024-12-06,Breakdown,Low,Closed
+N-00578,EQ-0077,2025-07-04,Inspection,Medium,Closed
+N-00579,EQ-0035,2026-02-24,Breakdown,Low,Closed
+N-00580,EQ-0058,2024-04-06,Breakdown,Medium,Closed
+N-00581,EQ-0028,2026-05-05,Breakdown,Medium,Closed
+N-00582,EQ-0017,2024-10-08,Breakdown,Medium,Closed
+N-00583,EQ-0020,2024-03-22,Breakdown,Medium,Closed
+N-00584,EQ-0022,2025-04-10,Condition Monitoring,High,Converted to Order
+N-00585,EQ-0017,2026-01-03,Inspection,Medium,Closed
+N-00586,EQ-0021,2026-03-20,Preventive Request,Medium,Closed
+N-00587,EQ-0039,2024-05-02,Condition Monitoring,Medium,Closed
+N-00588,EQ-0044,2025-04-04,Breakdown,Medium,Closed
+N-00589,EQ-0066,2026-05-10,Inspection,High,Closed
+N-00590,EQ-0057,2026-05-29,Inspection,High,Closed
+N-00591,EQ-0072,2025-11-27,Breakdown,Medium,Closed
+N-00592,EQ-0020,2025-04-02,Inspection,Low,Closed
+N-00593,EQ-0039,2024-02-13,Preventive Request,Medium,Closed
+N-00594,EQ-0029,2026-01-06,Breakdown,High,Closed
+N-00595,EQ-0002,2024-05-25,Inspection,High,Open
+N-00596,EQ-0025,2026-05-13,Inspection,Medium,Closed
+N-00597,EQ-0029,2025-06-06,Preventive Request,Low,Closed
+N-00598,EQ-0070,2026-05-17,Breakdown,Medium,Converted to Order
+N-00599,EQ-0085,2024-11-07,Condition Monitoring,Medium,Closed
+N-00600,EQ-0036,2025-09-10,Preventive Request,Low,Closed
+N-00601,EQ-0020,2025-12-25,Condition Monitoring,Low,Closed
+N-00602,EQ-0095,2024-07-05,Breakdown,High,Closed
+N-00603,EQ-0097,2025-08-04,Preventive Request,Low,Closed
+N-00604,EQ-0021,2024-09-29,Preventive Request,Medium,Closed
+N-00605,EQ-0063,2024-04-14,Condition Monitoring,Medium,Closed
+N-00606,EQ-0086,2024-10-02,Inspection,Low,Closed
+N-00607,EQ-0019,2024-01-14,Breakdown,Low,Converted to Order
+N-00608,EQ-0019,2025-08-23,Preventive Request,Medium,Closed
+N-00609,EQ-0060,2024-08-10,Breakdown,Medium,Closed
+N-00610,EQ-0025,2025-11-01,Inspection,Medium,Converted to Order
+N-00611,EQ-0015,2025-03-01,Breakdown,High,Closed
+N-00612,EQ-0047,2024-04-29,Inspection,High,Open
+N-00613,EQ-0093,2026-03-08,Breakdown,High,Closed
+N-00614,EQ-0074,2025-10-22,Condition Monitoring,Medium,Closed
+N-00615,EQ-0088,2024-08-05,Breakdown,High,Closed
+N-00616,EQ-0057,2025-07-22,Breakdown,Low,Closed
+N-00617,EQ-0058,2026-05-23,Breakdown,Medium,Closed
+N-00618,EQ-0048,2025-06-18,Breakdown,Medium,Closed
+N-00619,EQ-0060,2026-05-15,Breakdown,Low,Closed
+N-00620,EQ-0055,2024-03-23,Condition Monitoring,High,Closed
+N-00621,EQ-0002,2025-06-28,Inspection,Medium,Closed
+N-00622,EQ-0021,2025-05-26,Breakdown,Low,Closed
+N-00623,EQ-0004,2025-12-06,Breakdown,Medium,Closed
+N-00624,EQ-0078,2025-04-30,Inspection,Medium,Closed
+N-00625,EQ-0019,2025-01-17,Condition Monitoring,Medium,Closed
+N-00626,EQ-0063,2025-11-12,Breakdown,High,Closed
+N-00627,EQ-0073,2026-05-28,Breakdown,Medium,Closed
+N-00628,EQ-0027,2025-11-28,Preventive Request,High,Closed
+N-00629,EQ-0062,2025-01-11,Breakdown,Medium,Closed
+N-00630,EQ-0020,2026-04-18,Inspection,Medium,Closed
+N-00631,EQ-0012,2024-12-18,Condition Monitoring,High,Closed
+N-00632,EQ-0003,2025-08-26,Inspection,High,Closed
+N-00633,EQ-0085,2024-07-21,Breakdown,Medium,Closed
+N-00634,EQ-0064,2024-03-13,Breakdown,Low,Closed
+N-00635,EQ-0001,2024-02-29,Breakdown,Medium,Closed
+N-00636,EQ-0004,2025-02-05,Condition Monitoring,Low,Closed
+N-00637,EQ-0033,2025-09-10,Preventive Request,Medium,Converted to Order
+N-00638,EQ-0055,2024-08-30,Inspection,Medium,Closed
+N-00639,EQ-0027,2026-06-03,Breakdown,Medium,Closed
+N-00640,EQ-0041,2026-02-10,Breakdown,Medium,Closed
+N-00641,EQ-0065,2024-02-02,Inspection,Medium,Closed
+N-00642,EQ-0095,2025-10-02,Inspection,High,Closed
+N-00643,EQ-0098,2025-10-27,Preventive Request,Medium,Converted to Order
+N-00644,EQ-0040,2026-05-04,Breakdown,High,Closed
+N-00645,EQ-0074,2026-06-16,Inspection,Medium,Closed
+N-00646,EQ-0040,2025-05-30,Breakdown,High,Closed
+N-00647,EQ-0075,2024-01-10,Breakdown,High,Converted to Order
+N-00648,EQ-0098,2026-01-23,Inspection,Medium,Closed
+N-00649,EQ-0012,2025-12-19,Inspection,Medium,Open
+N-00650,EQ-0071,2026-03-30,Condition Monitoring,Medium,Closed
+N-00651,EQ-0072,2024-07-16,Preventive Request,Low,Closed
+N-00652,EQ-0005,2025-01-03,Inspection,Low,Closed
+N-00653,EQ-0008,2026-05-03,Preventive Request,Medium,Converted to Order
+N-00654,EQ-0044,2024-01-13,Breakdown,Medium,Closed
+N-00655,EQ-0029,2025-01-31,Inspection,Medium,Closed
+N-00656,EQ-0062,2024-12-08,Preventive Request,Medium,Closed
+N-00657,EQ-0058,2024-01-01,Preventive Request,Medium,Open
+N-00658,EQ-0065,2025-06-03,Breakdown,High,Closed
+N-00659,EQ-0087,2024-07-17,Inspection,Medium,Closed
+N-00660,EQ-0002,2024-11-18,Preventive Request,Medium,Closed
+N-00661,EQ-0053,2025-08-17,Preventive Request,Medium,Closed
+N-00662,EQ-0044,2026-06-08,Breakdown,Emergency,Closed
+N-00663,EQ-0028,2025-05-04,Condition Monitoring,Medium,Closed
+N-00664,EQ-0053,2025-10-05,Breakdown,Medium,Closed
+N-00665,EQ-0018,2025-12-05,Preventive Request,Low,Open
+N-00666,EQ-0068,2026-06-19,Breakdown,High,Closed
+N-00667,EQ-0010,2025-10-18,Preventive Request,Medium,Closed
+N-00668,EQ-0055,2024-11-22,Inspection,Medium,Closed
+N-00669,EQ-0017,2025-12-11,Breakdown,Low,Closed
+N-00670,EQ-0044,2024-05-02,Inspection,Medium,Closed
+N-00671,EQ-0011,2025-04-09,Breakdown,Medium,Closed
+N-00672,EQ-0028,2024-09-23,Condition Monitoring,Medium,Converted to Order
+N-00673,EQ-0064,2024-06-04,Preventive Request,Medium,Converted to Order
+N-00674,EQ-0064,2025-08-27,Inspection,Medium,Closed
+N-00675,EQ-0007,2026-05-25,Inspection,Low,Closed
+N-00676,EQ-0064,2026-05-12,Preventive Request,Medium,Closed
+N-00677,EQ-0051,2024-05-21,Preventive Request,Medium,Closed
+N-00678,EQ-0040,2026-05-16,Condition Monitoring,Medium,Closed
+N-00679,EQ-0034,2025-08-11,Breakdown,Medium,Closed
+N-00680,EQ-0051,2024-08-04,Breakdown,Medium,Closed
+N-00681,EQ-0060,2024-08-28,Preventive Request,Medium,Closed
+N-00682,EQ-0008,2024-12-10,Condition Monitoring,Medium,Closed
+N-00683,EQ-0041,2025-05-09,Breakdown,Low,Closed
+N-00684,EQ-0039,2026-02-12,Breakdown,High,Closed
+N-00685,EQ-0044,2025-12-29,Breakdown,Medium,Closed
+N-00686,EQ-0094,2025-10-03,Breakdown,Low,Closed
+N-00687,EQ-0062,2024-05-01,Condition Monitoring,Medium,Open
+N-00688,EQ-0003,2025-11-02,Breakdown,Medium,Closed
+N-00689,EQ-0011,2025-01-09,Inspection,Medium,Closed
+N-00690,EQ-0022,2025-09-08,Breakdown,High,Converted to Order
+N-00691,EQ-0023,2024-06-28,Condition Monitoring,High,Closed
+N-00692,EQ-0003,2025-12-13,Breakdown,Low,Closed
+N-00693,EQ-0070,2025-10-09,Inspection,High,Closed
+N-00694,EQ-0057,2025-05-19,Preventive Request,Medium,Converted to Order
+N-00695,EQ-0035,2025-04-17,Inspection,Medium,Converted to Order
+N-00696,EQ-0066,2024-08-23,Breakdown,Medium,Closed
+N-00697,EQ-0001,2024-01-10,Preventive Request,Low,Closed
+N-00698,EQ-0001,2025-10-08,Condition Monitoring,Medium,Closed
+N-00699,EQ-0036,2024-04-08,Preventive Request,Medium,Closed
+N-00700,EQ-0080,2025-09-12,Inspection,Low,Closed
+N-00701,EQ-0004,2025-11-14,Breakdown,Medium,Closed
+N-00702,EQ-0025,2025-02-23,Breakdown,High,Closed
+N-00703,EQ-0013,2025-01-16,Breakdown,Low,Closed
+N-00704,EQ-0039,2024-11-20,Breakdown,Medium,Closed
+N-00705,EQ-0098,2024-09-12,Breakdown,Medium,Closed
+N-00706,EQ-0094,2024-09-16,Breakdown,Low,Closed
+N-00707,EQ-0094,2025-07-21,Inspection,High,Closed
+N-00708,EQ-0003,2024-10-17,Breakdown,Medium,Closed
+N-00709,EQ-0017,2024-07-20,Breakdown,Medium,Closed
+N-00710,EQ-0081,2025-05-13,Condition Monitoring,Medium,Closed
+N-00711,EQ-0046,2026-06-08,Preventive Request,Low,Closed
+N-00712,EQ-0082,2024-10-24,Preventive Request,Medium,Closed
+N-00713,EQ-0038,2024-05-29,Breakdown,Emergency,Closed
+N-00714,EQ-0037,2026-05-20,Breakdown,Medium,Closed
+N-00715,EQ-0029,2025-03-20,Preventive Request,Medium,Converted to Order
+N-00716,EQ-0051,2026-05-23,Inspection,Medium,Closed
+N-00717,EQ-0075,2024-03-21,Condition Monitoring,Medium,Closed
+N-00718,EQ-0035,2025-09-11,Breakdown,Medium,Open
+N-00719,EQ-0011,2025-06-02,Preventive Request,Medium,Closed
+N-00720,EQ-0070,2025-01-25,Condition Monitoring,Medium,Closed
+N-00721,EQ-0089,2025-12-13,Breakdown,Medium,Closed
+N-00722,EQ-0099,2025-11-09,Breakdown,Medium,Closed
+N-00723,EQ-0011,2025-03-07,Breakdown,Medium,Closed
+N-00724,EQ-0096,2025-07-03,Breakdown,Low,Closed
+N-00725,EQ-0099,2026-01-13,Inspection,Medium,Closed
+N-00726,EQ-0058,2025-05-04,Condition Monitoring,Low,Closed
+N-00727,EQ-0001,2025-10-13,Breakdown,Medium,Closed
+N-00728,EQ-0098,2026-02-03,Inspection,Medium,Closed
+N-00729,EQ-0013,2025-09-06,Preventive Request,Medium,Closed
+N-00730,EQ-0012,2024-02-19,Inspection,Medium,Closed
+N-00731,EQ-0031,2024-04-08,Preventive Request,High,Closed
+N-00732,EQ-0091,2025-10-01,Condition Monitoring,Medium,Closed
+N-00733,EQ-0069,2025-04-17,Breakdown,Low,Closed
+N-00734,EQ-0079,2025-01-19,Preventive Request,High,Closed
+N-00735,EQ-0031,2025-05-10,Preventive Request,Medium,Closed
+N-00736,EQ-0080,2024-09-22,Breakdown,Medium,Closed
+N-00737,EQ-0080,2024-08-03,Inspection,Low,Closed
+N-00738,EQ-0040,2025-12-26,Condition Monitoring,Medium,Converted to Order
+N-00739,EQ-0079,2026-03-03,Breakdown,Medium,Closed
+N-00740,EQ-0079,2024-02-05,Preventive Request,Medium,Closed
+N-00741,EQ-0002,2025-10-28,Preventive Request,Medium,Closed
+N-00742,EQ-0016,2026-05-29,Preventive Request,Medium,Closed
+N-00743,EQ-0053,2026-04-23,Breakdown,High,Closed
+N-00744,EQ-0004,2024-05-26,Condition Monitoring,Medium,Converted to Order
+N-00745,EQ-0044,2026-02-04,Inspection,Medium,Closed
+N-00746,EQ-0027,2025-11-04,Inspection,Medium,Closed
+N-00747,EQ-0081,2025-03-02,Breakdown,Medium,Closed
+N-00748,EQ-0079,2026-05-15,Preventive Request,Medium,Closed
+N-00749,EQ-0091,2025-04-28,Preventive Request,Medium,Closed
+N-00750,EQ-0064,2025-02-06,Inspection,Low,Closed
+N-00751,EQ-0001,2024-07-30,Inspection,Low,Converted to Order
+N-00752,EQ-0035,2025-10-02,Inspection,Medium,Closed
+N-00753,EQ-0008,2025-11-21,Inspection,Medium,Closed
+N-00754,EQ-0088,2025-10-01,Preventive Request,Low,Closed
+N-00755,EQ-0085,2024-01-06,Breakdown,High,Closed
+N-00756,EQ-0035,2025-07-14,Breakdown,Medium,Closed
+N-00757,EQ-0062,2024-10-24,Condition Monitoring,Medium,Converted to Order
+N-00758,EQ-0095,2026-04-23,Breakdown,Medium,Closed
+N-00759,EQ-0085,2025-08-11,Breakdown,Medium,Closed
+N-00760,EQ-0023,2024-01-31,Breakdown,Medium,Closed
+N-00761,EQ-0014,2024-03-04,Breakdown,Low,Closed
+N-00762,EQ-0081,2024-08-15,Inspection,Medium,Closed
+N-00763,EQ-0004,2025-10-02,Breakdown,High,Closed
+N-00764,EQ-0094,2025-01-30,Preventive Request,Medium,Closed
+N-00765,EQ-0081,2024-01-10,Inspection,Medium,Converted to Order
+N-00766,EQ-0028,2024-08-09,Preventive Request,Medium,Closed
+N-00767,EQ-0006,2024-07-08,Condition Monitoring,Medium,Converted to Order
+N-00768,EQ-0078,2026-05-09,Inspection,Medium,Closed
+N-00769,EQ-0025,2025-11-07,Breakdown,Medium,Closed
+N-00770,EQ-0022,2024-03-01,Preventive Request,Low,Closed
+N-00771,EQ-0079,2026-01-02,Breakdown,Medium,Closed
+N-00772,EQ-0088,2024-12-20,Breakdown,Medium,Closed
+N-00773,EQ-0004,2024-12-15,Condition Monitoring,Medium,Closed
+N-00774,EQ-0037,2024-03-27,Condition Monitoring,Medium,Closed
+N-00775,EQ-0061,2025-01-02,Preventive Request,Low,Closed
+N-00776,EQ-0034,2026-03-19,Breakdown,High,Closed
+N-00777,EQ-0001,2025-05-10,Inspection,High,Closed
+N-00778,EQ-0081,2025-12-29,Breakdown,Medium,Closed
+N-00779,EQ-0069,2025-06-11,Preventive Request,Low,Closed
+N-00780,EQ-0100,2026-02-18,Preventive Request,Low,Closed
+N-00781,EQ-0067,2025-02-13,Breakdown,High,Converted to Order
+N-00782,EQ-0042,2024-08-29,Breakdown,High,Closed
+N-00783,EQ-0043,2024-10-14,Breakdown,Medium,Closed
+N-00784,EQ-0097,2024-12-07,Breakdown,Medium,Converted to Order
+N-00785,EQ-0080,2024-08-07,Breakdown,Medium,Closed
+N-00786,EQ-0050,2024-10-14,Breakdown,High,Converted to Order
+N-00787,EQ-0018,2025-12-04,Breakdown,Medium,Open
+N-00788,EQ-0075,2025-11-15,Breakdown,Emergency,Closed
+N-00789,EQ-0008,2024-11-03,Condition Monitoring,Low,Closed
+N-00790,EQ-0087,2025-04-21,Breakdown,Low,Closed
+N-00791,EQ-0026,2024-06-08,Breakdown,High,Closed
+N-00792,EQ-0078,2025-10-25,Breakdown,High,Converted to Order
+N-00793,EQ-0021,2025-09-06,Inspection,Low,Converted to Order
+N-00794,EQ-0012,2025-12-23,Breakdown,Medium,Closed
+N-00795,EQ-0036,2024-01-07,Breakdown,Medium,Closed
+N-00796,EQ-0016,2026-05-24,Breakdown,High,Closed
+N-00797,EQ-0023,2024-09-25,Breakdown,High,Closed
+N-00798,EQ-0099,2026-03-09,Breakdown,High,Closed
+N-00799,EQ-0051,2026-02-23,Breakdown,Medium,Closed
+N-00800,EQ-0025,2025-04-28,Preventive Request,Medium,Closed
+N-00801,EQ-0097,2024-03-24,Breakdown,Emergency,Converted to Order
+N-00802,EQ-0019,2025-12-31,Preventive Request,Medium,Closed
+N-00803,EQ-0033,2025-08-14,Breakdown,Medium,Closed
+N-00804,EQ-0072,2025-02-10,Inspection,Medium,Closed
+N-00805,EQ-0019,2024-02-09,Breakdown,Medium,Closed
+N-00806,EQ-0016,2024-08-05,Condition Monitoring,Medium,Closed
+N-00807,EQ-0099,2025-10-20,Breakdown,Medium,Converted to Order
+N-00808,EQ-0085,2024-08-18,Preventive Request,Medium,Closed
+N-00809,EQ-0079,2026-02-20,Inspection,Medium,Closed
+N-00810,EQ-0078,2024-11-30,Breakdown,Medium,Open
+N-00811,EQ-0074,2026-03-13,Breakdown,Medium,Closed
+N-00812,EQ-0094,2025-09-29,Breakdown,Medium,Closed
+N-00813,EQ-0052,2025-10-13,Breakdown,Medium,Closed
+N-00814,EQ-0097,2024-08-30,Breakdown,Low,Closed
+N-00815,EQ-0073,2026-04-11,Condition Monitoring,Medium,Converted to Order
+N-00816,EQ-0085,2025-08-17,Breakdown,Medium,Closed
+N-00817,EQ-0094,2025-10-03,Breakdown,High,Closed
+N-00818,EQ-0023,2026-01-29,Condition Monitoring,Low,Closed
+N-00819,EQ-0087,2024-05-30,Condition Monitoring,Medium,Converted to Order
+N-00820,EQ-0077,2024-03-22,Condition Monitoring,Medium,Closed
+N-00821,EQ-0029,2025-04-21,Breakdown,Medium,Closed
+N-00822,EQ-0083,2024-06-24,Breakdown,Low,Closed
+N-00823,EQ-0073,2025-04-02,Breakdown,Medium,Closed
+N-00824,EQ-0034,2025-04-07,Breakdown,Low,Closed
+N-00825,EQ-0048,2025-01-07,Breakdown,High,Closed
+N-00826,EQ-0078,2024-08-19,Breakdown,Medium,Closed
+N-00827,EQ-0005,2025-11-11,Breakdown,High,Closed
+N-00828,EQ-0012,2025-10-25,Preventive Request,High,Closed
+N-00829,EQ-0054,2026-06-15,Breakdown,Medium,Closed
+N-00830,EQ-0012,2024-07-24,Condition Monitoring,Low,Closed
+N-00831,EQ-0091,2026-06-23,Breakdown,Medium,Closed
+N-00832,EQ-0073,2025-01-26,Breakdown,High,Converted to Order
+N-00833,EQ-0035,2025-10-17,Preventive Request,High,Closed
+N-00834,EQ-0019,2025-02-16,Condition Monitoring,Medium,Closed
+N-00835,EQ-0056,2025-09-06,Condition Monitoring,Medium,Closed
+N-00836,EQ-0005,2026-05-27,Preventive Request,Medium,Closed
+N-00837,EQ-0048,2024-08-31,Condition Monitoring,Low,Closed
+N-00838,EQ-0035,2025-04-12,Breakdown,Emergency,Converted to Order
+N-00839,EQ-0100,2024-01-15,Condition Monitoring,Medium,Closed
+N-00840,EQ-0052,2025-04-08,Preventive Request,High,Converted to Order
+N-00841,EQ-0013,2024-01-11,Inspection,Medium,Closed
+N-00842,EQ-0071,2025-01-21,Breakdown,High,Closed
+N-00843,EQ-0082,2025-05-19,Condition Monitoring,Low,Closed
+N-00844,EQ-0072,2024-03-13,Condition Monitoring,Medium,Converted to Order
+N-00845,EQ-0054,2025-08-10,Breakdown,High,Closed
+N-00846,EQ-0020,2025-11-29,Breakdown,Medium,Closed
+N-00847,EQ-0009,2024-04-04,Breakdown,High,Closed
+N-00848,EQ-0081,2026-04-20,Breakdown,Low,Closed
+N-00849,EQ-0018,2025-01-12,Breakdown,Low,Closed
+N-00850,EQ-0099,2024-09-09,Breakdown,Medium,Open
+N-00851,EQ-0016,2024-11-05,Inspection,Medium,Closed
+N-00852,EQ-0071,2025-01-31,Breakdown,Medium,Closed
+N-00853,EQ-0006,2024-04-16,Inspection,Medium,Closed
+N-00854,EQ-0052,2024-11-29,Breakdown,Medium,Closed
+N-00855,EQ-0077,2024-05-08,Breakdown,High,Closed
+N-00856,EQ-0041,2025-07-01,Condition Monitoring,Medium,Converted to Order
+N-00857,EQ-0012,2024-12-14,Condition Monitoring,Medium,Closed
+N-00858,EQ-0033,2024-03-18,Condition Monitoring,Medium,Closed
+N-00859,EQ-0072,2025-12-05,Breakdown,Medium,Converted to Order
+N-00860,EQ-0047,2026-01-13,Breakdown,Medium,Closed
+N-00861,EQ-0011,2026-01-08,Inspection,Medium,Closed
+N-00862,EQ-0074,2024-12-14,Breakdown,High,Converted to Order
+N-00863,EQ-0042,2024-01-10,Breakdown,High,Closed
+N-00864,EQ-0071,2024-02-25,Breakdown,High,Open
+N-00865,EQ-0045,2025-09-06,Breakdown,Medium,Closed
+N-00866,EQ-0001,2025-12-19,Inspection,Medium,Closed
+N-00867,EQ-0015,2025-10-27,Breakdown,High,Converted to Order
+N-00868,EQ-0015,2025-12-03,Condition Monitoring,Medium,Closed
+N-00869,EQ-0054,2024-05-20,Breakdown,Low,Closed
+N-00870,EQ-0077,2025-05-01,Breakdown,Low,Closed
+N-00871,EQ-0016,2024-10-01,Breakdown,Medium,Converted to Order
+N-00872,EQ-0078,2025-07-18,Breakdown,Medium,Closed
+N-00873,EQ-0022,2024-07-09,Breakdown,Low,Closed
+N-00874,EQ-0051,2024-12-14,Breakdown,Medium,Closed
+N-00875,EQ-0066,2024-09-25,Preventive Request,Medium,Closed
+N-00876,EQ-0064,2026-05-02,Condition Monitoring,High,Closed
+N-00877,EQ-0060,2025-02-13,Breakdown,Low,Converted to Order
+N-00878,EQ-0098,2025-10-13,Condition Monitoring,High,Closed
+N-00879,EQ-0035,2025-08-31,Preventive Request,Medium,Closed
+N-00880,EQ-0061,2024-05-01,Condition Monitoring,High,Converted to Order
+N-00881,EQ-0004,2025-06-22,Preventive Request,Medium,Closed
+N-00882,EQ-0037,2025-03-07,Condition Monitoring,High,Closed
+N-00883,EQ-0098,2024-08-22,Condition Monitoring,Medium,Closed
+N-00884,EQ-0041,2026-03-18,Preventive Request,Medium,Closed
+N-00885,EQ-0097,2025-04-12,Breakdown,High,Closed
+N-00886,EQ-0022,2024-12-08,Breakdown,Medium,Closed
+N-00887,EQ-0085,2024-07-16,Breakdown,Medium,Closed
+N-00888,EQ-0050,2024-11-05,Inspection,Medium,Closed
+N-00889,EQ-0072,2025-07-07,Breakdown,Medium,Closed
+N-00890,EQ-0051,2025-12-28,Condition Monitoring,Low,Closed
+N-00891,EQ-0074,2026-05-20,Condition Monitoring,Medium,Closed
+N-00892,EQ-0096,2025-12-25,Condition Monitoring,Medium,Closed
+N-00893,EQ-0083,2024-09-13,Condition Monitoring,Medium,Closed
+N-00894,EQ-0058,2025-04-15,Breakdown,High,Closed
+N-00895,EQ-0027,2024-01-02,Breakdown,Medium,Closed
+N-00896,EQ-0028,2025-04-13,Breakdown,Medium,Closed
+N-00897,EQ-0012,2024-04-18,Breakdown,Medium,Closed
+N-00898,EQ-0070,2025-02-06,Breakdown,Medium,Closed
+N-00899,EQ-0088,2025-10-30,Breakdown,High,Closed
+N-00900,EQ-0010,2024-12-24,Inspection,Medium,Closed
+N-00901,EQ-0085,2026-01-11,Inspection,Medium,Closed
+N-00902,EQ-0024,2026-03-30,Breakdown,Medium,Closed
+N-00903,EQ-0056,2025-05-16,Breakdown,Medium,Open
+N-00904,EQ-0050,2025-10-09,Preventive Request,Medium,Closed
+N-00905,EQ-0048,2025-05-24,Inspection,Medium,Converted to Order
+N-00906,EQ-0056,2025-10-15,Preventive Request,Medium,Closed
+N-00907,EQ-0066,2024-02-29,Preventive Request,Low,Closed
+N-00908,EQ-0088,2024-09-04,Breakdown,Low,Closed
+N-00909,EQ-0005,2025-11-06,Preventive Request,Low,Converted to Order
+N-00910,EQ-0057,2026-03-28,Breakdown,High,Closed
+N-00911,EQ-0055,2025-08-16,Breakdown,High,Closed
+N-00912,EQ-0028,2024-01-17,Inspection,Medium,Closed
+N-00913,EQ-0063,2025-10-02,Breakdown,Emergency,Closed
+N-00914,EQ-0095,2025-02-06,Inspection,High,Converted to Order
+N-00915,EQ-0033,2025-02-01,Breakdown,Medium,Closed
+N-00916,EQ-0055,2024-08-06,Inspection,Medium,Closed
+N-00917,EQ-0059,2024-09-24,Breakdown,Medium,Converted to Order
+N-00918,EQ-0026,2025-11-14,Condition Monitoring,Medium,Closed
+N-00919,EQ-0017,2026-01-02,Breakdown,Low,Closed
+N-00920,EQ-0043,2024-10-04,Breakdown,Medium,Closed
+N-00921,EQ-0076,2024-10-25,Breakdown,High,Closed
+N-00922,EQ-0052,2024-12-01,Breakdown,High,Closed
+N-00923,EQ-0031,2024-04-08,Preventive Request,Medium,Closed
+N-00924,EQ-0050,2024-08-10,Breakdown,Medium,Closed
+N-00925,EQ-0006,2024-06-04,Preventive Request,High,Closed
+N-00926,EQ-0020,2025-10-26,Breakdown,High,Closed
+N-00927,EQ-0076,2024-06-01,Breakdown,Medium,Closed
+N-00928,EQ-0012,2026-05-14,Condition Monitoring,Medium,Closed
+N-00929,EQ-0051,2025-08-19,Inspection,Medium,Converted to Order
+N-00930,EQ-0086,2024-06-16,Condition Monitoring,High,Closed
+N-00931,EQ-0041,2026-01-13,Breakdown,Medium,Closed
+N-00932,EQ-0047,2025-09-27,Inspection,Medium,Closed
+N-00933,EQ-0093,2024-01-02,Breakdown,Medium,Closed
+N-00934,EQ-0100,2026-03-05,Preventive Request,Medium,Closed
+N-00935,EQ-0073,2026-01-01,Preventive Request,Medium,Closed
+N-00936,EQ-0022,2026-01-24,Breakdown,Medium,Closed
+N-00937,EQ-0038,2025-09-02,Breakdown,High,Converted to Order
+N-00938,EQ-0077,2025-05-27,Breakdown,High,Closed
+N-00939,EQ-0010,2025-04-10,Condition Monitoring,Medium,Closed
+N-00940,EQ-0003,2024-10-09,Inspection,High,Closed
+N-00941,EQ-0066,2024-08-31,Breakdown,High,Closed
+N-00942,EQ-0001,2026-05-10,Breakdown,High,Closed
+N-00943,EQ-0008,2025-12-10,Inspection,Medium,Closed
+N-00944,EQ-0015,2025-03-19,Breakdown,High,Closed
+N-00945,EQ-0062,2026-04-18,Condition Monitoring,Low,Closed
+N-00946,EQ-0003,2024-02-20,Inspection,Medium,Closed
+N-00947,EQ-0083,2024-07-06,Inspection,Low,Closed
+N-00948,EQ-0080,2024-06-15,Condition Monitoring,High,Converted to Order
+N-00949,EQ-0049,2025-06-23,Inspection,High,Closed
+N-00950,EQ-0061,2024-12-17,Inspection,Medium,Closed
+N-00951,EQ-0051,2025-09-12,Inspection,Medium,Closed
+N-00952,EQ-0005,2026-05-14,Breakdown,Low,Converted to Order
+N-00953,EQ-0049,2024-09-12,Inspection,Medium,Closed
+N-00954,EQ-0026,2025-02-10,Inspection,Medium,Closed
+N-00955,EQ-0046,2024-12-23,Breakdown,High,Converted to Order
+N-00956,EQ-0053,2025-01-23,Breakdown,Medium,Closed
+N-00957,EQ-0037,2024-11-21,Condition Monitoring,Medium,Closed
+N-00958,EQ-0027,2026-01-30,Inspection,High,Closed
+N-00959,EQ-0075,2024-03-06,Breakdown,Low,Converted to Order
+N-00960,EQ-0091,2025-03-21,Breakdown,High,Closed
+N-00961,EQ-0017,2026-06-19,Breakdown,High,Closed
+N-00962,EQ-0080,2025-03-29,Preventive Request,Medium,Closed
+N-00963,EQ-0083,2026-01-25,Preventive Request,Low,Closed
+N-00964,EQ-0079,2026-04-29,Preventive Request,High,Closed
+N-00965,EQ-0062,2024-06-18,Breakdown,High,Closed
+N-00966,EQ-0009,2024-12-30,Breakdown,Medium,Closed
+N-00967,EQ-0026,2026-02-18,Condition Monitoring,Medium,Closed
+N-00968,EQ-0006,2024-07-28,Condition Monitoring,Medium,Converted to Order
+N-00969,EQ-0060,2026-05-19,Condition Monitoring,High,Closed
+N-00970,EQ-0088,2024-10-30,Breakdown,High,Closed
+N-00971,EQ-0093,2025-09-10,Breakdown,Medium,Converted to Order
+N-00972,EQ-0090,2024-01-04,Inspection,Medium,Closed
+N-00973,EQ-0058,2024-03-27,Condition Monitoring,Medium,Converted to Order
+N-00974,EQ-0027,2024-05-18,Condition Monitoring,Medium,Converted to Order
+N-00975,EQ-0009,2026-04-05,Inspection,Medium,Closed
+N-00976,EQ-0051,2025-07-28,Condition Monitoring,Low,Closed
+N-00977,EQ-0054,2024-09-19,Condition Monitoring,Medium,Closed
+N-00978,EQ-0011,2024-12-10,Breakdown,Medium,Closed
+N-00979,EQ-0040,2024-08-22,Condition Monitoring,High,Closed
+N-00980,EQ-0060,2025-08-03,Breakdown,Medium,Closed
+N-00981,EQ-0061,2024-12-03,Breakdown,Medium,Closed
+N-00982,EQ-0013,2024-11-08,Preventive Request,High,Closed
+N-00983,EQ-0013,2025-04-08,Breakdown,Medium,Closed
+N-00984,EQ-0002,2025-06-03,Condition Monitoring,Medium,Closed
+N-00985,EQ-0069,2024-05-03,Inspection,Medium,Closed
+N-00986,EQ-0020,2025-09-25,Breakdown,Medium,Closed
+N-00987,EQ-0047,2024-12-20,Breakdown,Medium,Closed
+N-00988,EQ-0011,2026-05-06,Condition Monitoring,High,Closed
+N-00989,EQ-0052,2026-05-21,Breakdown,Medium,Closed
+N-00990,EQ-0035,2025-05-28,Breakdown,Emergency,Closed
+N-00991,EQ-0094,2024-05-23,Preventive Request,Low,Closed
+N-00992,EQ-0044,2026-03-18,Inspection,Medium,Closed
+N-00993,EQ-0032,2026-04-08,Inspection,Low,Closed
+N-00994,EQ-0027,2025-12-06,Breakdown,Low,Closed
+N-00995,EQ-0036,2025-03-01,Condition Monitoring,Medium,Closed
+N-00996,EQ-0042,2026-04-12,Breakdown,Medium,Closed
+N-00997,EQ-0070,2024-08-06,Breakdown,Medium,Closed
+N-00998,EQ-0015,2024-02-13,Breakdown,Medium,Closed
+N-00999,EQ-0039,2025-05-29,Preventive Request,Low,Closed
+N-01000,EQ-0040,2026-06-25,Breakdown,Medium,Closed
+N-01001,EQ-0032,2025-03-27,Preventive Request,Medium,Converted to Order
+N-01002,EQ-0048,2026-04-06,Preventive Request,Medium,Closed
+N-01003,EQ-0053,2026-02-22,Breakdown,Medium,Closed
+N-01004,EQ-0087,2024-04-12,Condition Monitoring,Medium,Closed
+N-01005,EQ-0086,2026-02-02,Breakdown,Low,Closed
+N-01006,EQ-0095,2024-05-14,Preventive Request,Low,Closed
+N-01007,EQ-0027,2026-02-20,Preventive Request,Medium,Closed
+N-01008,EQ-0026,2024-10-25,Breakdown,Medium,Closed
+N-01009,EQ-0060,2025-06-04,Preventive Request,Low,Closed
+N-01010,EQ-0009,2026-04-24,Breakdown,Medium,Closed
+N-01011,EQ-0083,2026-04-19,Breakdown,Medium,Closed
+N-01012,EQ-0042,2024-09-17,Breakdown,Medium,Closed
+N-01013,EQ-0008,2025-01-02,Condition Monitoring,Low,Closed
+N-01014,EQ-0100,2025-08-03,Breakdown,Medium,Closed
+N-01015,EQ-0060,2024-09-08,Breakdown,Low,Converted to Order
+N-01016,EQ-0022,2026-06-19,Breakdown,Medium,Converted to Order
+N-01017,EQ-0032,2024-10-24,Inspection,Medium,Closed
+N-01018,EQ-0073,2024-10-02,Breakdown,Medium,Closed
+N-01019,EQ-0094,2025-07-06,Breakdown,Low,Converted to Order
+N-01020,EQ-0084,2026-04-24,Breakdown,High,Closed
+N-01021,EQ-0054,2024-12-31,Breakdown,Emergency,Closed
+N-01022,EQ-0090,2024-11-15,Condition Monitoring,Low,Closed
+N-01023,EQ-0027,2025-11-06,Breakdown,High,Closed
+N-01024,EQ-0005,2026-06-21,Breakdown,Medium,Closed
+N-01025,EQ-0080,2024-01-27,Breakdown,Medium,Closed
+N-01026,EQ-0094,2025-08-28,Breakdown,High,Closed
+N-01027,EQ-0086,2025-10-01,Inspection,Medium,Closed
+N-01028,EQ-0020,2024-08-10,Breakdown,Low,Converted to Order
+N-01029,EQ-0097,2024-05-05,Preventive Request,Medium,Closed
+N-01030,EQ-0097,2025-04-30,Preventive Request,Low,Closed
+N-01031,EQ-0036,2025-07-01,Condition Monitoring,Medium,Closed
+N-01032,EQ-0092,2025-07-01,Inspection,Medium,Closed
+N-01033,EQ-0004,2025-01-26,Breakdown,Medium,Closed
+N-01034,EQ-0015,2025-03-18,Breakdown,Medium,Converted to Order
+N-01035,EQ-0029,2024-10-11,Breakdown,Low,Closed
+N-01036,EQ-0093,2026-05-31,Condition Monitoring,Medium,Closed
+N-01037,EQ-0036,2025-07-12,Breakdown,High,Closed
+N-01038,EQ-0084,2026-02-03,Condition Monitoring,Medium,Closed
+N-01039,EQ-0029,2024-11-08,Condition Monitoring,Medium,Closed
+N-01040,EQ-0035,2026-01-15,Inspection,Medium,Closed
+N-01041,EQ-0046,2025-08-11,Inspection,Medium,Closed
+N-01042,EQ-0093,2026-02-03,Inspection,Medium,Closed
+N-01043,EQ-0047,2024-05-10,Preventive Request,Medium,Closed
+N-01044,EQ-0071,2024-06-17,Condition Monitoring,Medium,Closed
+N-01045,EQ-0075,2025-11-07,Preventive Request,Low,Closed
+N-01046,EQ-0079,2025-01-27,Preventive Request,Medium,Closed
+N-01047,EQ-0028,2025-08-16,Preventive Request,Low,Closed
+N-01048,EQ-0097,2025-03-25,Breakdown,Medium,Closed
+N-01049,EQ-0012,2024-03-25,Preventive Request,Low,Closed
+N-01050,EQ-0099,2025-07-02,Breakdown,Medium,Closed
+N-01051,EQ-0042,2025-02-15,Inspection,Medium,Closed
+N-01052,EQ-0090,2026-03-29,Preventive Request,Low,Closed
+N-01053,EQ-0034,2024-09-08,Breakdown,High,Closed
+N-01054,EQ-0025,2025-08-29,Breakdown,Medium,Closed
+N-01055,EQ-0028,2026-04-21,Inspection,Medium,Open
+N-01056,EQ-0100,2025-02-19,Breakdown,Medium,Closed
+N-01057,EQ-0076,2025-08-09,Inspection,Medium,Closed
+N-01058,EQ-0047,2026-02-13,Preventive Request,Medium,Closed
+N-01059,EQ-0020,2025-08-20,Breakdown,Low,Open
+N-01060,EQ-0010,2025-01-27,Preventive Request,Medium,Closed
+N-01061,EQ-0042,2024-05-01,Breakdown,Low,Closed
+N-01062,EQ-0090,2025-02-09,Breakdown,Medium,Closed
+N-01063,EQ-0052,2024-06-14,Breakdown,Medium,Closed
+N-01064,EQ-0045,2025-12-22,Breakdown,Medium,Closed
+N-01065,EQ-0068,2025-03-01,Inspection,Low,Closed
+N-01066,EQ-0080,2025-01-06,Inspection,Medium,Closed
+N-01067,EQ-0086,2025-11-03,Condition Monitoring,Low,Closed
+N-01068,EQ-0097,2025-02-17,Breakdown,Low,Closed
+N-01069,EQ-0015,2024-12-30,Breakdown,Medium,Closed
+N-01070,EQ-0021,2025-07-31,Breakdown,Medium,Open
+N-01071,EQ-0042,2024-10-21,Inspection,High,Closed
+N-01072,EQ-0062,2025-05-27,Condition Monitoring,Medium,Closed
+N-01073,EQ-0015,2026-05-17,Preventive Request,Low,Converted to Order
+N-01074,EQ-0032,2024-05-20,Breakdown,Medium,Closed
+N-01075,EQ-0006,2025-08-16,Breakdown,Medium,Closed
+N-01076,EQ-0081,2025-09-01,Condition Monitoring,Low,Closed
+N-01077,EQ-0087,2026-05-05,Breakdown,High,Closed
+N-01078,EQ-0083,2025-07-20,Inspection,Medium,Closed
+N-01079,EQ-0033,2024-10-14,Breakdown,Medium,Converted to Order
+N-01080,EQ-0029,2025-08-10,Preventive Request,High,Closed
+N-01081,EQ-0067,2024-05-26,Breakdown,Medium,Closed
+N-01082,EQ-0003,2024-05-13,Breakdown,Medium,Converted to Order
+N-01083,EQ-0075,2026-05-13,Preventive Request,Medium,Closed
+N-01084,EQ-0069,2024-06-20,Breakdown,High,Converted to Order
+N-01085,EQ-0039,2024-04-22,Breakdown,Medium,Closed
+N-01086,EQ-0042,2025-12-18,Preventive Request,High,Closed
+N-01087,EQ-0097,2024-08-30,Preventive Request,High,Closed
+N-01088,EQ-0008,2026-06-11,Condition Monitoring,Medium,Closed
+N-01089,EQ-0041,2026-06-28,Breakdown,Medium,Closed
+N-01090,EQ-0012,2026-03-09,Breakdown,Low,Closed
+N-01091,EQ-0084,2025-08-22,Inspection,Medium,Closed
+N-01092,EQ-0093,2024-03-22,Breakdown,Low,Closed
+N-01093,EQ-0006,2026-05-12,Inspection,Medium,Closed
+N-01094,EQ-0060,2025-05-10,Breakdown,Medium,Closed
+N-01095,EQ-0039,2025-03-09,Preventive Request,Low,Closed
+N-01096,EQ-0033,2024-10-30,Inspection,High,Closed
+N-01097,EQ-0089,2025-09-23,Breakdown,Medium,Closed
+N-01098,EQ-0021,2024-06-13,Breakdown,Medium,Closed
+N-01099,EQ-0059,2026-06-03,Breakdown,Medium,Converted to Order
+N-01100,EQ-0036,2025-09-28,Inspection,Low,Closed
+N-01101,EQ-0085,2024-06-09,Preventive Request,Medium,Converted to Order
+N-01102,EQ-0057,2025-11-15,Breakdown,Medium,Closed
+N-01103,EQ-0010,2026-04-03,Condition Monitoring,High,Closed
+N-01104,EQ-0097,2024-11-19,Preventive Request,Medium,Closed
+N-01105,EQ-0068,2026-05-27,Breakdown,Low,Closed
+N-01106,EQ-0100,2024-07-18,Inspection,Medium,Converted to Order
+N-01107,EQ-0080,2024-01-03,Breakdown,Medium,Closed
+N-01108,EQ-0043,2026-05-04,Inspection,Medium,Closed
+N-01109,EQ-0034,2026-03-23,Breakdown,Medium,Closed
+N-01110,EQ-0003,2025-01-27,Breakdown,Emergency,Closed
+N-01111,EQ-0076,2025-07-19,Breakdown,Emergency,Closed
+N-01112,EQ-0042,2025-12-29,Preventive Request,Medium,Closed
+N-01113,EQ-0074,2024-12-02,Breakdown,Emergency,Closed
+N-01114,EQ-0069,2026-03-17,Condition Monitoring,High,Closed
+N-01115,EQ-0039,2025-07-03,Preventive Request,High,Closed
+N-01116,EQ-0087,2025-02-02,Inspection,Medium,Closed
+N-01117,EQ-0091,2026-05-28,Breakdown,Medium,Closed
+N-01118,EQ-0079,2024-04-21,Preventive Request,Medium,Closed
+N-01119,EQ-0039,2026-06-07,Breakdown,Low,Closed
+N-01120,EQ-0002,2025-03-27,Breakdown,Medium,Open
+N-01121,EQ-0034,2024-10-29,Preventive Request,Medium,Closed
+N-01122,EQ-0079,2024-04-27,Breakdown,Medium,Converted to Order
+N-01123,EQ-0096,2025-08-20,Condition Monitoring,Low,Converted to Order
+N-01124,EQ-0046,2025-04-16,Preventive Request,Medium,Closed
+N-01125,EQ-0082,2025-10-31,Breakdown,Low,Closed
+N-01126,EQ-0100,2025-03-24,Breakdown,High,Closed
+N-01127,EQ-0042,2025-03-12,Breakdown,Medium,Closed
+N-01128,EQ-0083,2025-04-24,Condition Monitoring,Low,Converted to Order
+N-01129,EQ-0089,2024-04-01,Breakdown,Medium,Closed
+N-01130,EQ-0057,2024-02-03,Breakdown,Medium,Closed
+N-01131,EQ-0067,2025-07-20,Inspection,Medium,Closed
+N-01132,EQ-0011,2026-04-02,Condition Monitoring,Medium,Closed
+N-01133,EQ-0049,2024-08-13,Inspection,Medium,Closed
+N-01134,EQ-0013,2025-11-17,Preventive Request,Low,Closed
+N-01135,EQ-0054,2024-03-27,Breakdown,Low,Converted to Order
+N-01136,EQ-0063,2025-04-19,Breakdown,Medium,Converted to Order
+N-01137,EQ-0040,2025-06-29,Condition Monitoring,Low,Closed
+N-01138,EQ-0089,2026-05-25,Preventive Request,Medium,Closed
+N-01139,EQ-0087,2025-09-21,Preventive Request,Medium,Closed
+N-01140,EQ-0100,2024-08-14,Preventive Request,Low,Closed
+N-01141,EQ-0077,2025-07-24,Inspection,Low,Converted to Order
+N-01142,EQ-0008,2026-05-26,Condition Monitoring,Medium,Closed
+N-01143,EQ-0056,2025-10-09,Breakdown,Low,Closed
+N-01144,EQ-0083,2024-10-29,Breakdown,Emergency,Closed
+N-01145,EQ-0007,2025-09-30,Inspection,Medium,Closed
+N-01146,EQ-0091,2024-01-30,Preventive Request,Medium,Converted to Order
+N-01147,EQ-0072,2024-05-18,Preventive Request,Low,Closed
+N-01148,EQ-0030,2025-09-02,Breakdown,High,Closed
+N-01149,EQ-0064,2025-01-08,Inspection,Medium,Closed
+N-01150,EQ-0088,2026-04-02,Breakdown,High,Closed
+N-01151,EQ-0060,2025-02-19,Preventive Request,Low,Closed
+N-01152,EQ-0026,2025-08-24,Breakdown,Medium,Converted to Order
+N-01153,EQ-0013,2026-05-01,Inspection,Medium,Converted to Order
+N-01154,EQ-0061,2024-02-19,Inspection,Medium,Closed
+N-01155,EQ-0058,2025-10-26,Inspection,Low,Closed
+N-01156,EQ-0044,2025-07-03,Preventive Request,Medium,Closed
+N-01157,EQ-0014,2026-06-19,Breakdown,Medium,Closed
+N-01158,EQ-0047,2024-08-29,Breakdown,Medium,Converted to Order
+N-01159,EQ-0083,2024-12-25,Breakdown,Low,Closed
+N-01160,EQ-0015,2026-05-20,Condition Monitoring,High,Closed
+N-01161,EQ-0005,2024-11-25,Breakdown,High,Closed
+N-01162,EQ-0088,2026-01-30,Condition Monitoring,Medium,Closed
+N-01163,EQ-0085,2025-10-04,Preventive Request,Low,Converted to Order
+N-01164,EQ-0090,2025-08-20,Condition Monitoring,Medium,Closed
+N-01165,EQ-0015,2024-04-01,Breakdown,Medium,Closed
+N-01166,EQ-0063,2024-12-04,Breakdown,Medium,Closed
+N-01167,EQ-0097,2026-04-21,Breakdown,Medium,Closed
+N-01168,EQ-0017,2025-01-23,Breakdown,Medium,Closed
+N-01169,EQ-0004,2026-04-05,Condition Monitoring,High,Closed
+N-01170,EQ-0030,2025-06-20,Breakdown,Medium,Closed
+N-01171,EQ-0042,2026-06-18,Condition Monitoring,Medium,Closed
+N-01172,EQ-0071,2024-01-24,Preventive Request,Medium,Closed
+N-01173,EQ-0011,2024-01-27,Breakdown,Medium,Closed
+N-01174,EQ-0084,2024-05-13,Breakdown,Medium,Closed
+N-01175,EQ-0037,2025-10-12,Condition Monitoring,Medium,Closed
+N-01176,EQ-0038,2026-05-13,Preventive Request,Medium,Closed
+N-01177,EQ-0026,2024-11-26,Breakdown,High,Closed
+N-01178,EQ-0056,2024-04-20,Preventive Request,Medium,Closed
+N-01179,EQ-0084,2024-03-22,Breakdown,Emergency,Closed
+N-01180,EQ-0093,2024-05-27,Breakdown,Medium,Closed
+N-01181,EQ-0019,2025-11-19,Breakdown,High,Closed
+N-01182,EQ-0056,2025-09-10,Breakdown,Medium,Closed
+N-01183,EQ-0046,2024-11-22,Inspection,Low,Open
+N-01184,EQ-0023,2025-01-13,Breakdown,Medium,Closed
+N-01185,EQ-0003,2024-11-08,Breakdown,Medium,Closed
+N-01186,EQ-0070,2025-08-29,Inspection,High,Open
+N-01187,EQ-0015,2024-08-02,Breakdown,Medium,Closed
+N-01188,EQ-0005,2025-01-06,Breakdown,Medium,Closed
+N-01189,EQ-0073,2024-04-12,Breakdown,Medium,Closed
+N-01190,EQ-0028,2025-02-22,Preventive Request,Medium,Closed
+N-01191,EQ-0094,2025-12-27,Breakdown,High,Closed
+N-01192,EQ-0097,2024-04-10,Breakdown,Medium,Closed
+N-01193,EQ-0054,2024-09-16,Preventive Request,Medium,Closed
+N-01194,EQ-0008,2026-04-18,Breakdown,Low,Closed
+N-01195,EQ-0075,2026-03-26,Inspection,High,Closed
+N-01196,EQ-0032,2024-03-21,Inspection,Medium,Converted to Order
+N-01197,EQ-0060,2026-05-01,Preventive Request,Medium,Closed
+N-01198,EQ-0002,2024-05-25,Preventive Request,Medium,Open
+N-01199,EQ-0044,2024-06-02,Preventive Request,Medium,Closed
+N-01200,EQ-0037,2025-06-17,Condition Monitoring,Low,Closed
+N-01201,EQ-0093,2024-01-06,Preventive Request,High,Closed
+N-01202,EQ-0014,2025-01-01,Breakdown,Low,Closed
+N-01203,EQ-0078,2025-07-18,Breakdown,Medium,Closed
+N-01204,EQ-0026,2026-03-06,Breakdown,Medium,Closed
+N-01205,EQ-0006,2026-05-04,Inspection,Medium,Converted to Order
+N-01206,EQ-0079,2026-01-08,Breakdown,Medium,Closed
+N-01207,EQ-0020,2024-07-23,Preventive Request,Medium,Closed
+N-01208,EQ-0012,2024-05-30,Inspection,Medium,Closed
+N-01209,EQ-0082,2025-06-19,Breakdown,High,Closed
+N-01210,EQ-0035,2026-06-10,Preventive Request,Low,Closed
+N-01211,EQ-0006,2024-05-30,Breakdown,Medium,Closed
+N-01212,EQ-0054,2026-05-23,Condition Monitoring,Low,Converted to Order
+N-01213,EQ-0065,2024-05-16,Breakdown,Medium,Closed
+N-01214,EQ-0084,2026-01-22,Breakdown,High,Converted to Order
+N-01215,EQ-0069,2025-12-31,Breakdown,Low,Closed
+N-01216,EQ-0088,2024-05-30,Inspection,Low,Open
+N-01217,EQ-0040,2025-12-29,Breakdown,Emergency,Closed
+N-01218,EQ-0015,2025-09-08,Inspection,Medium,Closed
+N-01219,EQ-0078,2025-09-24,Breakdown,Medium,Closed
+N-01220,EQ-0030,2024-09-14,Breakdown,High,Closed
+N-01221,EQ-0001,2025-12-29,Breakdown,Medium,Closed
+N-01222,EQ-0053,2025-04-06,Condition Monitoring,Medium,Closed
+N-01223,EQ-0053,2024-07-08,Breakdown,Medium,Closed
+N-01224,EQ-0048,2024-12-14,Breakdown,Low,Closed
+N-01225,EQ-0082,2024-04-04,Breakdown,Low,Closed
+N-01226,EQ-0060,2025-07-27,Breakdown,Low,Closed
+N-01227,EQ-0072,2025-04-05,Breakdown,Medium,Closed
+N-01228,EQ-0098,2025-02-18,Breakdown,Medium,Closed
+N-01229,EQ-0066,2026-02-27,Preventive Request,Low,Closed
+N-01230,EQ-0005,2026-01-20,Breakdown,Medium,Closed
+N-01231,EQ-0089,2024-08-21,Condition Monitoring,Medium,Converted to Order
+N-01232,EQ-0066,2026-05-02,Breakdown,High,Converted to Order
+N-01233,EQ-0091,2024-11-08,Preventive Request,Medium,Converted to Order
+N-01234,EQ-0044,2026-05-25,Breakdown,Medium,Closed
+N-01235,EQ-0096,2025-05-26,Inspection,Medium,Closed
+N-01236,EQ-0077,2024-01-24,Breakdown,Medium,Closed
+N-01237,EQ-0039,2026-03-23,Inspection,Medium,Closed
+N-01238,EQ-0013,2024-09-15,Breakdown,High,Closed
+N-01239,EQ-0019,2025-06-15,Breakdown,High,Closed
+N-01240,EQ-0063,2026-04-12,Condition Monitoring,High,Closed
+N-01241,EQ-0048,2024-07-14,Preventive Request,Medium,Closed
+N-01242,EQ-0004,2024-02-12,Preventive Request,Medium,Closed
+N-01243,EQ-0049,2026-02-09,Preventive Request,Low,Closed
+N-01244,EQ-0096,2025-05-31,Breakdown,Medium,Closed
+N-01245,EQ-0073,2024-10-15,Breakdown,High,Closed
+N-01246,EQ-0065,2025-01-09,Breakdown,High,Closed
+N-01247,EQ-0096,2025-01-18,Inspection,Medium,Converted to Order
+N-01248,EQ-0004,2025-07-18,Preventive Request,Medium,Converted to Order
+N-01249,EQ-0041,2025-11-01,Inspection,High,Closed
+N-01250,EQ-0035,2026-01-24,Preventive Request,Medium,Closed
+N-01251,EQ-0001,2024-10-07,Preventive Request,Medium,Closed
+N-01252,EQ-0037,2025-10-30,Condition Monitoring,Medium,Closed
+N-01253,EQ-0018,2026-01-22,Breakdown,Medium,Converted to Order
+N-01254,EQ-0068,2024-02-24,Preventive Request,High,Closed
+N-01255,EQ-0006,2025-03-31,Breakdown,Medium,Closed
+N-01256,EQ-0020,2024-01-06,Breakdown,Medium,Closed
+N-01257,EQ-0098,2026-02-08,Breakdown,Medium,Converted to Order
+N-01258,EQ-0069,2025-03-09,Preventive Request,Medium,Converted to Order
+N-01259,EQ-0004,2025-05-03,Breakdown,Medium,Closed
+N-01260,EQ-0098,2024-03-16,Breakdown,Low,Closed
+N-01261,EQ-0037,2026-05-24,Condition Monitoring,Low,Closed
+N-01262,EQ-0009,2024-09-12,Breakdown,Medium,Closed
+N-01263,EQ-0018,2024-11-06,Breakdown,Medium,Closed
+N-01264,EQ-0051,2024-06-15,Breakdown,Medium,Closed
+N-01265,EQ-0012,2025-12-26,Preventive Request,Medium,Closed
+N-01266,EQ-0048,2024-07-24,Condition Monitoring,Medium,Closed
+N-01267,EQ-0028,2025-05-14,Breakdown,Low,Closed
+N-01268,EQ-0018,2024-03-21,Breakdown,Low,Closed
+N-01269,EQ-0035,2025-12-10,Breakdown,Low,Closed
+N-01270,EQ-0066,2026-01-04,Inspection,Medium,Closed
+N-01271,EQ-0073,2024-06-16,Inspection,Low,Converted to Order
+N-01272,EQ-0013,2025-11-25,Preventive Request,Medium,Closed
+N-01273,EQ-0043,2025-07-07,Condition Monitoring,Medium,Closed
+N-01274,EQ-0024,2024-03-23,Preventive Request,Medium,Closed
+N-01275,EQ-0073,2024-06-24,Breakdown,Medium,Closed
+N-01276,EQ-0072,2024-07-25,Inspection,Medium,Closed
+N-01277,EQ-0020,2024-02-20,Condition Monitoring,Low,Closed
+N-01278,EQ-0044,2025-04-30,Inspection,High,Closed
+N-01279,EQ-0050,2026-05-11,Inspection,Medium,Closed
+N-01280,EQ-0039,2025-11-18,Preventive Request,Medium,Closed
+N-01281,EQ-0076,2024-03-10,Breakdown,Medium,Closed
+N-01282,EQ-0007,2025-07-31,Inspection,Medium,Converted to Order
+N-01283,EQ-0042,2025-01-15,Inspection,High,Closed
+N-01284,EQ-0083,2024-05-04,Preventive Request,Medium,Closed
+N-01285,EQ-0076,2025-11-17,Breakdown,Medium,Closed
+N-01286,EQ-0031,2025-02-27,Inspection,Medium,Closed
+N-01287,EQ-0093,2024-12-30,Condition Monitoring,Medium,Open
+N-01288,EQ-0085,2025-06-26,Preventive Request,High,Closed
+N-01289,EQ-0032,2025-12-08,Preventive Request,Medium,Closed
+N-01290,EQ-0039,2024-12-30,Condition Monitoring,Low,Closed
+N-01291,EQ-0075,2024-09-05,Preventive Request,Low,Closed
+N-01292,EQ-0090,2025-02-25,Breakdown,Medium,Closed
+N-01293,EQ-0084,2026-01-18,Condition Monitoring,Low,Closed
+N-01294,EQ-0039,2025-02-11,Preventive Request,Medium,Closed
+N-01295,EQ-0089,2025-02-27,Breakdown,Medium,Closed
+N-01296,EQ-0054,2024-05-23,Breakdown,High,Closed
+N-01297,EQ-0006,2025-05-11,Breakdown,Medium,Closed
+N-01298,EQ-0006,2024-11-21,Preventive Request,Medium,Closed
+N-01299,EQ-0085,2024-07-25,Condition Monitoring,Medium,Converted to Order
+N-01300,EQ-0079,2024-04-24,Condition Monitoring,Medium,Closed
+N-01301,EQ-0092,2024-05-17,Breakdown,Emergency,Closed
+N-01302,EQ-0005,2025-05-05,Condition Monitoring,High,Closed
+N-01303,EQ-0047,2026-01-21,Breakdown,Medium,Converted to Order
+N-01304,EQ-0028,2025-09-03,Breakdown,Medium,Closed
+N-01305,EQ-0072,2025-12-10,Breakdown,Medium,Closed
+N-01306,EQ-0064,2024-06-11,Inspection,Medium,Closed
+N-01307,EQ-0056,2025-03-23,Condition Monitoring,Medium,Closed
+N-01308,EQ-0027,2025-09-11,Breakdown,Low,Converted to Order
+N-01309,EQ-0039,2026-01-06,Breakdown,Medium,Closed
+N-01310,EQ-0002,2026-01-10,Breakdown,Medium,Converted to Order
+N-01311,EQ-0033,2024-06-07,Breakdown,Emergency,Closed
+N-01312,EQ-0081,2025-01-05,Preventive Request,Medium,Converted to Order
+N-01313,EQ-0037,2024-01-30,Breakdown,Medium,Closed
+N-01314,EQ-0041,2024-01-04,Breakdown,High,Converted to Order
+N-01315,EQ-0035,2024-05-17,Breakdown,Low,Closed
+N-01316,EQ-0042,2025-07-02,Breakdown,Low,Closed
+N-01317,EQ-0045,2026-03-04,Breakdown,High,Converted to Order
+N-01318,EQ-0080,2024-05-25,Inspection,High,Closed
+N-01319,EQ-0056,2025-06-21,Condition Monitoring,Medium,Closed
+N-01320,EQ-0007,2025-01-18,Breakdown,High,Closed
+N-01321,EQ-0046,2024-10-01,Breakdown,Medium,Closed
+N-01322,EQ-0094,2024-01-26,Preventive Request,High,Closed
+N-01323,EQ-0053,2026-03-27,Breakdown,Low,Closed
+N-01324,EQ-0041,2025-11-02,Condition Monitoring,Medium,Closed
+N-01325,EQ-0074,2024-04-27,Inspection,High,Closed
+N-01326,EQ-0076,2024-03-02,Breakdown,Medium,Closed
+N-01327,EQ-0017,2024-11-02,Breakdown,Medium,Closed
+N-01328,EQ-0061,2026-01-08,Preventive Request,Medium,Closed
+N-01329,EQ-0065,2026-05-14,Inspection,Medium,Closed
+N-01330,EQ-0001,2024-12-28,Breakdown,Medium,Closed
+N-01331,EQ-0081,2025-08-29,Preventive Request,Medium,Closed
+N-01332,EQ-0005,2025-08-07,Condition Monitoring,Medium,Closed
+N-01333,EQ-0019,2025-04-20,Breakdown,Medium,Closed
+N-01334,EQ-0012,2026-03-14,Condition Monitoring,Low,Closed
+N-01335,EQ-0080,2024-11-23,Breakdown,Medium,Closed
+N-01336,EQ-0024,2024-03-03,Breakdown,Medium,Closed
+N-01337,EQ-0097,2025-11-22,Inspection,Medium,Closed
+N-01338,EQ-0014,2024-02-13,Breakdown,Medium,Closed
+N-01339,EQ-0055,2025-10-17,Inspection,Medium,Closed
+N-01340,EQ-0019,2024-08-19,Inspection,Medium,Closed
+N-01341,EQ-0090,2026-02-24,Condition Monitoring,High,Closed
+N-01342,EQ-0058,2024-11-12,Breakdown,Medium,Closed
+N-01343,EQ-0053,2025-05-15,Inspection,Medium,Closed
+N-01344,EQ-0024,2026-04-25,Preventive Request,Medium,Converted to Order
+N-01345,EQ-0001,2024-02-01,Condition Monitoring,Medium,Closed
+N-01346,EQ-0023,2024-05-15,Breakdown,Medium,Closed
+N-01347,EQ-0014,2025-07-13,Inspection,Medium,Closed
+N-01348,EQ-0065,2025-12-22,Preventive Request,Medium,Closed
+N-01349,EQ-0007,2024-10-02,Breakdown,Low,Closed
+N-01350,EQ-0014,2024-04-01,Breakdown,Medium,Closed
+N-01351,EQ-0093,2026-06-26,Condition Monitoring,High,Converted to Order
+N-01352,EQ-0008,2024-10-14,Breakdown,High,Closed
+N-01353,EQ-0026,2025-09-17,Preventive Request,Medium,Closed
+N-01354,EQ-0075,2024-08-17,Breakdown,Low,Closed
+N-01355,EQ-0077,2024-10-06,Breakdown,Medium,Open
+N-01356,EQ-0088,2024-03-16,Preventive Request,Medium,Closed
+N-01357,EQ-0032,2024-12-31,Breakdown,Medium,Closed
+N-01358,EQ-0052,2024-05-18,Breakdown,Medium,Closed
+N-01359,EQ-0011,2024-07-08,Breakdown,High,Closed
+N-01360,EQ-0082,2024-11-09,Condition Monitoring,Medium,Closed
+N-01361,EQ-0001,2024-01-11,Preventive Request,Medium,Closed
+N-01362,EQ-0019,2025-11-24,Preventive Request,Medium,Closed
+N-01363,EQ-0058,2026-01-28,Preventive Request,Medium,Closed
+N-01364,EQ-0076,2026-02-04,Breakdown,High,Closed
+N-01365,EQ-0085,2025-06-05,Breakdown,High,Closed
+N-01366,EQ-0047,2026-04-07,Breakdown,Medium,Closed
+N-01367,EQ-0061,2025-02-02,Condition Monitoring,Medium,Closed
+N-01368,EQ-0087,2025-02-04,Condition Monitoring,High,Closed
+N-01369,EQ-0002,2025-01-13,Inspection,High,Converted to Order
+N-01370,EQ-0050,2024-03-30,Breakdown,Medium,Closed
+N-01371,EQ-0085,2026-02-05,Condition Monitoring,Medium,Closed
+N-01372,EQ-0079,2026-06-17,Condition Monitoring,Medium,Closed
+N-01373,EQ-0097,2024-04-16,Inspection,Medium,Closed
+N-01374,EQ-0022,2025-10-19,Breakdown,Medium,Closed
+N-01375,EQ-0069,2024-11-25,Condition Monitoring,Medium,Closed
+N-01376,EQ-0061,2025-11-13,Preventive Request,Medium,Closed
+N-01377,EQ-0011,2026-06-11,Preventive Request,Low,Closed
+N-01378,EQ-0049,2025-06-12,Breakdown,Medium,Closed
+N-01379,EQ-0071,2025-06-18,Condition Monitoring,High,Open
+N-01380,EQ-0001,2025-04-04,Inspection,Low,Closed
+N-01381,EQ-0045,2024-02-13,Breakdown,Medium,Closed
+N-01382,EQ-0029,2024-01-23,Inspection,Medium,Closed
+N-01383,EQ-0019,2024-12-30,Preventive Request,Low,Closed
+N-01384,EQ-0079,2025-04-07,Breakdown,High,Closed
+N-01385,EQ-0003,2026-04-12,Breakdown,High,Closed
+N-01386,EQ-0023,2024-12-26,Preventive Request,Medium,Closed
+N-01387,EQ-0026,2026-06-27,Breakdown,High,Converted to Order
+N-01388,EQ-0088,2026-01-25,Preventive Request,Low,Closed
+N-01389,EQ-0086,2024-03-15,Preventive Request,High,Closed
+N-01390,EQ-0046,2025-09-06,Preventive Request,Medium,Converted to Order
+N-01391,EQ-0085,2025-11-19,Breakdown,Medium,Closed
+N-01392,EQ-0036,2026-02-28,Condition Monitoring,Low,Closed
+N-01393,EQ-0087,2024-11-07,Condition Monitoring,Medium,Closed
+N-01394,EQ-0016,2026-06-24,Preventive Request,Medium,Closed
+N-01395,EQ-0084,2026-01-13,Breakdown,High,Converted to Order
+N-01396,EQ-0043,2024-08-09,Inspection,Medium,Closed
+N-01397,EQ-0081,2025-03-08,Condition Monitoring,Low,Closed
+N-01398,EQ-0097,2024-09-30,Breakdown,Low,Closed
+N-01399,EQ-0053,2026-01-28,Condition Monitoring,Medium,Closed
+N-01400,EQ-0098,2025-08-31,Breakdown,Low,Open
+N-01401,EQ-0035,2025-12-14,Breakdown,Emergency,Closed
+N-01402,EQ-0009,2026-02-14,Breakdown,Medium,Closed
+N-01403,EQ-0024,2025-03-03,Breakdown,Medium,Closed
+N-01404,EQ-0075,2024-12-25,Breakdown,High,Closed
+N-01405,EQ-0045,2026-06-30,Breakdown,High,Closed
+N-01406,EQ-0022,2025-08-18,Breakdown,Medium,Closed
+N-01407,EQ-0001,2024-02-13,Inspection,Low,Closed
+N-01408,EQ-0087,2024-07-04,Preventive Request,Medium,Closed
+N-01409,EQ-0075,2025-06-07,Inspection,Medium,Closed
+N-01410,EQ-0063,2024-10-09,Preventive Request,Medium,Converted to Order
+N-01411,EQ-0022,2025-07-21,Breakdown,High,Closed
+N-01412,EQ-0028,2025-03-20,Breakdown,High,Closed
+N-01413,EQ-0016,2024-11-19,Breakdown,Medium,Closed
+N-01414,EQ-0024,2026-04-14,Preventive Request,Medium,Open
+N-01415,EQ-0030,2024-09-13,Breakdown,Medium,Converted to Order
+N-01416,EQ-0022,2024-06-04,Breakdown,Medium,Converted to Order
+N-01417,EQ-0034,2024-06-06,Breakdown,Medium,Closed
+N-01418,EQ-0091,2026-02-04,Breakdown,High,Closed
+N-01419,EQ-0069,2025-11-01,Inspection,Medium,Closed
+N-01420,EQ-0045,2025-12-08,Inspection,Medium,Converted to Order
+N-01421,EQ-0064,2025-12-15,Inspection,Medium,Closed
+N-01422,EQ-0096,2025-11-25,Preventive Request,Medium,Closed
+N-01423,EQ-0076,2025-10-02,Breakdown,Emergency,Closed
+N-01424,EQ-0018,2025-12-16,Breakdown,High,Closed
+N-01425,EQ-0030,2025-08-03,Breakdown,Medium,Converted to Order
+N-01426,EQ-0055,2025-07-23,Condition Monitoring,Medium,Closed
+N-01427,EQ-0046,2026-06-22,Condition Monitoring,Low,Closed
+N-01428,EQ-0092,2026-05-05,Breakdown,Low,Closed
+N-01429,EQ-0010,2024-04-30,Inspection,Low,Closed
+N-01430,EQ-0005,2025-08-13,Preventive Request,High,Closed
+N-01431,EQ-0004,2025-10-11,Condition Monitoring,Medium,Closed
+N-01432,EQ-0091,2024-07-23,Condition Monitoring,High,Closed
+N-01433,EQ-0078,2024-10-21,Inspection,Medium,Closed
+N-01434,EQ-0018,2025-05-03,Breakdown,Medium,Closed
+N-01435,EQ-0079,2024-06-27,Breakdown,Low,Closed
+N-01436,EQ-0027,2026-02-18,Breakdown,Medium,Closed
+N-01437,EQ-0011,2025-07-18,Breakdown,Medium,Closed
+N-01438,EQ-0065,2026-06-16,Inspection,High,Open
+N-01439,EQ-0044,2026-06-24,Breakdown,Medium,Closed
+N-01440,EQ-0030,2024-07-29,Preventive Request,High,Closed
+N-01441,EQ-0050,2025-11-12,Inspection,Medium,Converted to Order
+N-01442,EQ-0072,2026-04-30,Inspection,Medium,Closed
+N-01443,EQ-0007,2026-02-27,Breakdown,Low,Closed
+N-01444,EQ-0042,2024-07-20,Condition Monitoring,Low,Closed
+N-01445,EQ-0067,2024-02-19,Condition Monitoring,Medium,Open
+N-01446,EQ-0093,2026-04-22,Breakdown,Medium,Closed
+N-01447,EQ-0042,2024-01-16,Condition Monitoring,Medium,Converted to Order
+N-01448,EQ-0068,2026-01-02,Breakdown,Medium,Converted to Order
+N-01449,EQ-0034,2025-11-21,Condition Monitoring,Medium,Closed
+N-01450,EQ-0092,2024-01-15,Condition Monitoring,Medium,Closed
+N-01451,EQ-0076,2024-02-25,Preventive Request,Medium,Closed
+N-01452,EQ-0061,2024-02-06,Condition Monitoring,Low,Closed
+N-01453,EQ-0025,2026-02-24,Breakdown,Low,Closed
+N-01454,EQ-0049,2025-09-01,Breakdown,High,Open
+N-01455,EQ-0009,2024-03-10,Breakdown,Medium,Closed
+N-01456,EQ-0054,2025-09-25,Breakdown,Medium,Closed
+N-01457,EQ-0008,2024-08-17,Breakdown,Low,Closed
+N-01458,EQ-0094,2026-01-23,Preventive Request,Medium,Closed
+N-01459,EQ-0012,2025-04-28,Preventive Request,Low,Converted to Order
+N-01460,EQ-0090,2025-12-23,Condition Monitoring,Low,Closed
+N-01461,EQ-0006,2024-02-28,Breakdown,High,Closed
+N-01462,EQ-0006,2024-11-30,Breakdown,Medium,Converted to Order
+N-01463,EQ-0086,2024-12-13,Preventive Request,Low,Converted to Order
+N-01464,EQ-0054,2025-06-25,Inspection,High,Closed
+N-01465,EQ-0011,2025-08-07,Preventive Request,Medium,Closed
+N-01466,EQ-0082,2024-08-13,Preventive Request,Low,Closed
+N-01467,EQ-0045,2024-01-21,Preventive Request,Medium,Closed
+N-01468,EQ-0037,2024-12-11,Inspection,Low,Closed
+N-01469,EQ-0093,2026-05-19,Breakdown,Medium,Closed
+N-01470,EQ-0051,2026-01-02,Preventive Request,Medium,Closed
+N-01471,EQ-0022,2025-04-22,Inspection,High,Converted to Order
+N-01472,EQ-0059,2025-12-09,Condition Monitoring,Medium,Closed
+N-01473,EQ-0020,2024-05-18,Preventive Request,Medium,Closed
+N-01474,EQ-0051,2024-12-21,Inspection,Medium,Closed
+N-01475,EQ-0040,2024-02-19,Breakdown,Low,Closed
+N-01476,EQ-0057,2026-05-10,Inspection,High,Closed
+N-01477,EQ-0062,2025-08-18,Inspection,High,Closed
+N-01478,EQ-0072,2025-03-10,Breakdown,High,Closed
+N-01479,EQ-0079,2025-11-07,Preventive Request,Low,Open
+N-01480,EQ-0014,2024-09-10,Breakdown,High,Closed
+N-01481,EQ-0034,2025-09-02,Breakdown,Low,Closed
+N-01482,EQ-0037,2024-12-03,Condition Monitoring,Medium,Closed
+N-01483,EQ-0017,2026-04-20,Condition Monitoring,Low,Closed
+N-01484,EQ-0060,2026-03-31,Inspection,Medium,Closed
+N-01485,EQ-0064,2026-02-25,Inspection,Medium,Closed
+N-01486,EQ-0037,2025-08-24,Breakdown,Low,Closed
+N-01487,EQ-0002,2025-06-07,Breakdown,High,Open
+N-01488,EQ-0052,2025-02-07,Preventive Request,Medium,Closed
+N-01489,EQ-0099,2025-04-04,Inspection,Medium,Closed
+N-01490,EQ-0051,2026-01-30,Breakdown,High,Closed
+N-01491,EQ-0011,2026-06-23,Breakdown,Medium,Closed
+N-01492,EQ-0072,2024-12-28,Inspection,Medium,Converted to Order
+N-01493,EQ-0096,2026-04-27,Inspection,Low,Closed
+N-01494,EQ-0021,2024-10-17,Breakdown,Medium,Closed
+N-01495,EQ-0028,2025-12-22,Condition Monitoring,Medium,Closed
+N-01496,EQ-0055,2025-03-15,Condition Monitoring,Medium,Converted to Order
+N-01497,EQ-0049,2025-09-14,Condition Monitoring,Medium,Converted to Order
+N-01498,EQ-0050,2024-04-23,Breakdown,High,Open
+N-01499,EQ-0074,2025-03-08,Breakdown,Medium,Open
+N-01500,EQ-0062,2026-03-01,Breakdown,Medium,Closed
