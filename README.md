@@ -1,4 +1,4 @@
-# PlantPulse — Industrial Maintenance & Reliability Analytics
+# Industrial Maintenance & Reliability Analytics
 
 ##  Overview
 
